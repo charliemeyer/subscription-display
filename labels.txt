@@ -1,0 +1,1838 @@
+id Label_3
+name Receipts
+getting message 0
+snippet: Friend -- If you&#39;re working on your New Year&#39;s resolutions, I have a suggestion: Keep being
+getting message 1
+snippet: Happy New Yearenjoy a $5 credit from our partner, VUDU. Can&#39;t see the images? View online Roku
+getting message 2
+snippet: ChallengePost Build your portfolio. Compete in hackathons &amp; challenges. Be a better hacker!
+getting message 3
+snippet: This email was sent to you by Santander Bank. To ensure delivery to your inbox, please add email@
+getting message 4
+snippet: Free US ground shipping on orders over $50. Quirky New! Markdowns Best Sellers Quirky+GE UNWRAP A
+getting message 5
+snippet: Plus, save an extra 15% on hotels with promo code: GIFTME ORBITZ Hotels Flights Packages Cars Cruises
+getting message 6
+snippet: Get started with DVLUP | View the online version. It&#39;s time to DVLUP something amazing Dear
+getting message 7
+snippet: So you&#39;d like to verify the email address linked to your Medium account? Marvelous! Verify your
+getting message 8
+snippet: We will once again be attempting an upgrade of our GitHub Enterprise instance, this time on 6 January
+getting message 9
+snippet: There&#39;s still plenty to celebrate with HTC Hot Deals There&#39;s still plenty to celebrate with
+getting message 10
+snippet: Make your NYE Dinner Reservation Carmela&#39;s - 781.585.2148 Special Menu Above Mamma Mia&#39;s NYE
+getting message 11
+snippet: Welcome to Medium! Before you go out and play on Medium, please verify your email address. Why, you
+getting message 12
+snippet: Charles -- This shouldn&#39;t take more than a minute: OFA wants to know what issue you&#39;re most
+getting message 13
+snippet: Fluencia Learn Spanish charlie, 2015 is right around the corner! The new year is almost here, and
+getting message 14
+snippet: Sophomore students who are interested in the medical, dental, veterinary and public health and health
+getting message 15
+snippet: Me again, Not sure why but pressing the &#39;shift&#39; button then eject worked, so all is well.
+getting message 16
+snippet: Hi all, Just an FYI but CD 1 isn&#39;t playing nice and refuses to release my CD. I had been using it
+getting message 17
+snippet: December 31 tax deadline TOMORROW | Make your gift today  View Web Version | Share Facebook Twitter
+getting message 18
+snippet: Your support makes such a difference. Please give one more gift in 2014. Dear Caring Partner, As we
+getting message 19
+snippet: Don&#39;t miss your chance to save. Staples Free shipping for Staples Rewards  members on all
+getting message 20
+snippet: Having trouble reading this email? View as webpage  | | Forward to a Friend JERSEYS | CAPS |
+getting message 21
+snippet: Shop Essentials to Keep Up Cozy Shop Essentials to Keep Up Cozy View Online Tufts University Logo
+getting message 22
+snippet: GoFundMe campaigns have raised over $620M. Not Interested? Visit GoFundMe.com December 30, 2014 Young
+getting message 23
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 24
+snippet: No one on the schedule. Going to do an extra-long show. (Will probably also do the 5-6 slot next week
+getting message 25
+snippet: Huge savings on restock instruments, accessories, and more. View The Online Version Woodwinds Brass
+getting message 26
+snippet: Charles -- In a few days, the final Congress of my presidency will take their oaths of office. I&#39;
+getting message 27
+snippet: Hi Charlie, Eric (popcorncolonel@gmail.com) invited you to a Dropbox shared folder called &quot;
+getting message 28
+snippet: Go to my console  Welcome to Google Cloud Platform Cloud Platform is designed to make development
+getting message 29
+snippet: Hi Charlie, Eric (popcorncolonel@gmail.com) invited you to a Dropbox shared folder called &quot;
+getting message 30
+snippet: Charles, I bet you have an opinion on this: As we finalize our plans for the months ahead, we want to
+getting message 31
+snippet: Where did you find this cute puppy? On Dec 27, 2014 10:16 PM, &quot;Charlie Meyer&quot; &lt;cmey63@
+getting message 32
+snippet: Let the Ninety Nine Restaurants treat you on your birthday. To view in your browser or on a mobile
+getting message 33
+snippet: Friend -- In a few days, the final Congress of my presidency will take their oaths of office. I&#39;m
+getting message 34
+snippet: Get 15% off with promo code: GIFTME ORBITZ Hotels Flights Packages Cars Cruises Deals Activities
+getting message 35
+snippet: Association for Computing Machinery | About | Current Issue | TechNews Archive | TechNews Apps
+getting message 36
+snippet: 39DollarGlasses.com 1-800-672-6304 Facebook Twitter Google+ Pinterest Home Page Shop Eyeglasses Shop
+getting message 37
+snippet: Buy One Get One FREE on almost everything else! FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;&gt; See
+getting message 38
+snippet: Charles -- The other side has money to burn -- I&#39;m talking tons of it. But OFA has you. You&#39;
+getting message 39
+snippet: Order Early &amp; Save on Textbooks Order Early &amp; Save on Textbooks View Online Tufts University
+getting message 40
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 41
+snippet: Dear charles.meyer, We have received your application
+getting message 42
+snippet: I don&#39;t know what the protocols are to take these open spots during the winter &quot;Holiday
+getting message 43
+snippet: Dear charles.meyer@tufts.edu, To submit a TA application use the password: 58ikh7 at the webpage:
+getting message 44
+snippet: COMP 40 End-of-Term Grade Report for Charles Meyer Your grade on the COMP 40 final exam was: 95.5
+getting message 45
+snippet: Friend -- I spend a lot of my time asking people for money. I&#39;m proud of that, because I know the
+getting message 46
+snippet: Make Your Year-End Tax-Deductible Gift to SSC by Midnight 12/31! Make your charitable year-end gift
+getting message 47
+snippet: email HTML goes here To view your registration, visit your dashboard by clicking this link. Email
+getting message 48
+snippet: Friend -- You heard from President Obama, and we can&#39;t say it any better than he can. What
+getting message 49
+snippet: We&#39;d never forget your birthday! **************************************** Men&#39;s Wearhouse(R)
+getting message 50
+snippet: Exclusive deals only available to email subscribers Hotels Hotel Deals Packages &amp; Flights Groups
+getting message 51
+snippet: Your $5 off $25 coupon has arrived. Staples Free shipping for Staples Rewards  members on all
+getting message 52
+snippet: Plus, Buy One Get One Free on almost everything else FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+getting message 53
+snippet: Friend -- Affordable health care. Fighting climate change. Immigration reform. Those aren&#39;t just
+getting message 54
+snippet: Soft Feel, Lightweight Comfort, Vintage Look Soft Feel, Lightweight Comfort, Vintage Look View Online
+getting message 55
+snippet: Tufts University End User Digest: 1 New Message For windensemble Elist (windensemble@elist.tufts.edu)
+getting message 56
+snippet: Dear Charlie Meyer, Thank you for your recent purchase from Amazon.com! Did you know that you can
+getting message 57
+snippet: 3 days in a row! You&#39;ve coded three days in a row! That&#39;s a great start. KEEP UP YOUR STREAK
+getting message 58
+snippet: 
+getting message 59
+snippet: Charles -- Some folks have started to call this the &quot;fourth quarter&quot; of my presidency. In a
+getting message 60
+snippet: Dear Charles Meyer, You have successfully registered your mobile number on My T-Mobile! With My T-
+getting message 61
+snippet: Need a sub tonight from 9-11. Play what you like; like what you play. Mike Classic Rock Mine -- You
+getting message 62
+snippet: Great movie moments begin tonight. Can&#39;t see the images? View online Roku Now low price on Roku
+getting message 63
+snippet: This email was sent to you by Santander Bank. To ensure delivery to your inbox, please add email@
+getting message 64
+snippet: Save $150 on flight + hotel vacation packages with code: 150VACA ORBITZ Hotels Flights Packages Cars
+getting message 65
+snippet: Friend -- I&#39;ll tell you one big reason I&#39;m pumped for 2015: OFA is going to help train 10000
+getting message 66
+snippet: Charles -- Some folks have started to call this the &quot;fourth quarter&quot; of my presidency. In a
+getting message 67
+snippet: Take a look back at 2014 View this email in your browser 2014 has been a great year for No Barriers
+getting message 68
+snippet: Name a Friend in the new Jimmy Fund Clinic display by 12/31 and be part of the grand re-opening in
+getting message 69
+snippet: Our goal: 15000 donations to help fight cancer | Donate Now  View Web Version | Share Facebook
+getting message 70
+snippet: After Christmas Sale Up to 65% Off FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;&gt; See details ****
+getting message 71
+snippet: $100 Visa gift card with Surface Pro 3. Staples Free shipping for Staples Rewards  members on all
+getting message 72
+snippet: Get 10% off your next order at the Online ProShop [If you cannot view this email, please: click here]
+getting message 73
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 74
+snippet: Amazon Shipping Confirmation Hello Charlie Meyer, &quot;Kingston Digital 240GB...&quot; has shipped.
+getting message 75
+snippet: Richard Kim added comments to resume ruff draft Richard Kim Assisted +1 for verb usage ReplyOpen
+getting message 76
+snippet: Sorry for the mixup! Hi Charles, Our email regarding registration was confusing, so we need to
+getting message 77
+snippet: Save your tax refund and watch it growcommit to save today! View online. Intuit TurboTax Wish your
+getting message 78
+snippet: Help beat cancer in 2015 by supporting research and care today. SUPPORT DANA-FARBER CANCER INSTITUTE
+getting message 79
+snippet: Download At Bat and Subscribe Now View as web page | December 26, 2014 MLB.com MLB.com At Bat. Make
+getting message 80
+snippet: *Available at Boston location only* www.bostonbowl.com Boston Bowl is always looking out for your
+getting message 81
+snippet: This email was sent to you by Santander Bank. To ensure delivery to your inbox, please add email@
+getting message 82
+snippet: PURCHASE TICKETS HERE PRNYE Button Program: What is the button program? This is another way to raise
+getting message 83
+snippet: You can also use this coupon on any mobile or tablet device... Hotels Hotel Deals Packages &amp;
+getting message 84
+snippet: Get 15% off hotels with promo code: GIFTME ORBITZ Hotels Flights Packages Cars Cruises Deals
+getting message 85
+snippet: Take up to 60% our most popular inventions. Quirky New! Best Sellers DIY Quirky+GE Order by midnight
+getting message 86
+snippet: $100 off laptops, desktops and PCs ends soon - treat yourself! Staples Free shipping for Staples
+getting message 87
+snippet: After Christmas Sale: Up to 65% off now through Sunday. FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+getting message 88
+snippet: For Every Outdoor Activity For Every Outdoor Activity View Online Tufts University Logo TEXTBOOKS |
+getting message 89
+snippet: Tufts University End User Digest: 1 New Message For windensemble Elist (windensemble@elist.tufts.edu)
+getting message 90
+snippet: Winter Sale Today! 30% Off 3-Game Packs + Free Ornament View as web page | December 26, 2014
+getting message 91
+snippet: Amazon Order Confirmation Hello Charlie Meyer, Thank you for shopping with us. You ordered &quot;
+getting message 92
+snippet: &quot;amazon.com Prime&quot; Your Amazon.com Today&#39;s Deals Shop All Departments Charlie Meyer,
+getting message 93
+snippet: ASUS Chromebook 12-Inch with Gigabit WiFi, 16GB Storage &amp; 2GB RAM As a reviewer of ASUS
+getting message 94
+snippet: Plus, designer suits just $249.99 and 30% off shoes. FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+getting message 95
+snippet: Thank you Steve! On Thu, Dec 25, 2014 at 7:55 AM, steven lusardi &lt;stevenlusardi33@gmail.com&gt;
+getting message 96
+snippet: Google Play Apps Books Movies Music Newsstand Devices Now available to rent or buy Now available to
+getting message 97
+snippet: I got it !! On Wed, Dec 24, 2014 at 11:17 PM, Edward Beuchert &lt;edward@slidingrock.com&gt; wrote: I
+getting message 98
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 99
+snippet: Plus, designer suits just $249.99 and 30% off shoes. FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+-------------------------- ayyyyyyyy lmao--------------------------------
+id DRAFT
+name DRAFT
+getting message 0
+snippet: Friend -- If you&#39;re working on your New Year&#39;s resolutions, I have a suggestion: Keep being
+getting message 1
+snippet: Happy New Yearenjoy a $5 credit from our partner, VUDU. Can&#39;t see the images? View online Roku
+getting message 2
+snippet: ChallengePost Build your portfolio. Compete in hackathons &amp; challenges. Be a better hacker!
+getting message 3
+snippet: This email was sent to you by Santander Bank. To ensure delivery to your inbox, please add email@
+getting message 4
+snippet: Free US ground shipping on orders over $50. Quirky New! Markdowns Best Sellers Quirky+GE UNWRAP A
+getting message 5
+snippet: Plus, save an extra 15% on hotels with promo code: GIFTME ORBITZ Hotels Flights Packages Cars Cruises
+getting message 6
+snippet: Get started with DVLUP | View the online version. It&#39;s time to DVLUP something amazing Dear
+getting message 7
+snippet: So you&#39;d like to verify the email address linked to your Medium account? Marvelous! Verify your
+getting message 8
+snippet: We will once again be attempting an upgrade of our GitHub Enterprise instance, this time on 6 January
+getting message 9
+snippet: There&#39;s still plenty to celebrate with HTC Hot Deals There&#39;s still plenty to celebrate with
+getting message 10
+snippet: Make your NYE Dinner Reservation Carmela&#39;s - 781.585.2148 Special Menu Above Mamma Mia&#39;s NYE
+getting message 11
+snippet: Welcome to Medium! Before you go out and play on Medium, please verify your email address. Why, you
+getting message 12
+snippet: Charles -- This shouldn&#39;t take more than a minute: OFA wants to know what issue you&#39;re most
+getting message 13
+snippet: Fluencia Learn Spanish charlie, 2015 is right around the corner! The new year is almost here, and
+getting message 14
+snippet: Sophomore students who are interested in the medical, dental, veterinary and public health and health
+getting message 15
+snippet: Me again, Not sure why but pressing the &#39;shift&#39; button then eject worked, so all is well.
+getting message 16
+snippet: Hi all, Just an FYI but CD 1 isn&#39;t playing nice and refuses to release my CD. I had been using it
+getting message 17
+snippet: December 31 tax deadline TOMORROW | Make your gift today  View Web Version | Share Facebook Twitter
+getting message 18
+snippet: Your support makes such a difference. Please give one more gift in 2014. Dear Caring Partner, As we
+getting message 19
+snippet: Don&#39;t miss your chance to save. Staples Free shipping for Staples Rewards  members on all
+getting message 20
+snippet: Having trouble reading this email? View as webpage  | | Forward to a Friend JERSEYS | CAPS |
+getting message 21
+snippet: Shop Essentials to Keep Up Cozy Shop Essentials to Keep Up Cozy View Online Tufts University Logo
+getting message 22
+snippet: GoFundMe campaigns have raised over $620M. Not Interested? Visit GoFundMe.com December 30, 2014 Young
+getting message 23
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 24
+snippet: No one on the schedule. Going to do an extra-long show. (Will probably also do the 5-6 slot next week
+getting message 25
+snippet: Huge savings on restock instruments, accessories, and more. View The Online Version Woodwinds Brass
+getting message 26
+snippet: Charles -- In a few days, the final Congress of my presidency will take their oaths of office. I&#39;
+getting message 27
+snippet: Hi Charlie, Eric (popcorncolonel@gmail.com) invited you to a Dropbox shared folder called &quot;
+getting message 28
+snippet: Go to my console  Welcome to Google Cloud Platform Cloud Platform is designed to make development
+getting message 29
+snippet: Hi Charlie, Eric (popcorncolonel@gmail.com) invited you to a Dropbox shared folder called &quot;
+getting message 30
+snippet: Charles, I bet you have an opinion on this: As we finalize our plans for the months ahead, we want to
+getting message 31
+snippet: Where did you find this cute puppy? On Dec 27, 2014 10:16 PM, &quot;Charlie Meyer&quot; &lt;cmey63@
+getting message 32
+snippet: Let the Ninety Nine Restaurants treat you on your birthday. To view in your browser or on a mobile
+getting message 33
+snippet: Friend -- In a few days, the final Congress of my presidency will take their oaths of office. I&#39;m
+getting message 34
+snippet: Get 15% off with promo code: GIFTME ORBITZ Hotels Flights Packages Cars Cruises Deals Activities
+getting message 35
+snippet: Association for Computing Machinery | About | Current Issue | TechNews Archive | TechNews Apps
+getting message 36
+snippet: 39DollarGlasses.com 1-800-672-6304 Facebook Twitter Google+ Pinterest Home Page Shop Eyeglasses Shop
+getting message 37
+snippet: Buy One Get One FREE on almost everything else! FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;&gt; See
+getting message 38
+snippet: Charles -- The other side has money to burn -- I&#39;m talking tons of it. But OFA has you. You&#39;
+getting message 39
+snippet: Order Early &amp; Save on Textbooks Order Early &amp; Save on Textbooks View Online Tufts University
+getting message 40
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 41
+snippet: Dear charles.meyer, We have received your application
+getting message 42
+snippet: I don&#39;t know what the protocols are to take these open spots during the winter &quot;Holiday
+getting message 43
+snippet: Dear charles.meyer@tufts.edu, To submit a TA application use the password: 58ikh7 at the webpage:
+getting message 44
+snippet: COMP 40 End-of-Term Grade Report for Charles Meyer Your grade on the COMP 40 final exam was: 95.5
+getting message 45
+snippet: Friend -- I spend a lot of my time asking people for money. I&#39;m proud of that, because I know the
+getting message 46
+snippet: Make Your Year-End Tax-Deductible Gift to SSC by Midnight 12/31! Make your charitable year-end gift
+getting message 47
+snippet: email HTML goes here To view your registration, visit your dashboard by clicking this link. Email
+getting message 48
+snippet: Friend -- You heard from President Obama, and we can&#39;t say it any better than he can. What
+getting message 49
+snippet: We&#39;d never forget your birthday! **************************************** Men&#39;s Wearhouse(R)
+getting message 50
+snippet: Exclusive deals only available to email subscribers Hotels Hotel Deals Packages &amp; Flights Groups
+getting message 51
+snippet: Your $5 off $25 coupon has arrived. Staples Free shipping for Staples Rewards  members on all
+getting message 52
+snippet: Plus, Buy One Get One Free on almost everything else FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+getting message 53
+snippet: Friend -- Affordable health care. Fighting climate change. Immigration reform. Those aren&#39;t just
+getting message 54
+snippet: Soft Feel, Lightweight Comfort, Vintage Look Soft Feel, Lightweight Comfort, Vintage Look View Online
+getting message 55
+snippet: Tufts University End User Digest: 1 New Message For windensemble Elist (windensemble@elist.tufts.edu)
+getting message 56
+snippet: Dear Charlie Meyer, Thank you for your recent purchase from Amazon.com! Did you know that you can
+getting message 57
+snippet: 3 days in a row! You&#39;ve coded three days in a row! That&#39;s a great start. KEEP UP YOUR STREAK
+getting message 58
+snippet: 
+getting message 59
+snippet: Charles -- Some folks have started to call this the &quot;fourth quarter&quot; of my presidency. In a
+getting message 60
+snippet: Dear Charles Meyer, You have successfully registered your mobile number on My T-Mobile! With My T-
+getting message 61
+snippet: Need a sub tonight from 9-11. Play what you like; like what you play. Mike Classic Rock Mine -- You
+getting message 62
+snippet: Great movie moments begin tonight. Can&#39;t see the images? View online Roku Now low price on Roku
+getting message 63
+snippet: This email was sent to you by Santander Bank. To ensure delivery to your inbox, please add email@
+getting message 64
+snippet: Save $150 on flight + hotel vacation packages with code: 150VACA ORBITZ Hotels Flights Packages Cars
+getting message 65
+snippet: Friend -- I&#39;ll tell you one big reason I&#39;m pumped for 2015: OFA is going to help train 10000
+getting message 66
+snippet: Charles -- Some folks have started to call this the &quot;fourth quarter&quot; of my presidency. In a
+getting message 67
+snippet: Take a look back at 2014 View this email in your browser 2014 has been a great year for No Barriers
+getting message 68
+snippet: Name a Friend in the new Jimmy Fund Clinic display by 12/31 and be part of the grand re-opening in
+getting message 69
+snippet: Our goal: 15000 donations to help fight cancer | Donate Now  View Web Version | Share Facebook
+getting message 70
+snippet: After Christmas Sale Up to 65% Off FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;&gt; See details ****
+getting message 71
+snippet: $100 Visa gift card with Surface Pro 3. Staples Free shipping for Staples Rewards  members on all
+getting message 72
+snippet: Get 10% off your next order at the Online ProShop [If you cannot view this email, please: click here]
+getting message 73
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 74
+snippet: Amazon Shipping Confirmation Hello Charlie Meyer, &quot;Kingston Digital 240GB...&quot; has shipped.
+getting message 75
+snippet: Richard Kim added comments to resume ruff draft Richard Kim Assisted +1 for verb usage ReplyOpen
+getting message 76
+snippet: Sorry for the mixup! Hi Charles, Our email regarding registration was confusing, so we need to
+getting message 77
+snippet: Save your tax refund and watch it growcommit to save today! View online. Intuit TurboTax Wish your
+getting message 78
+snippet: Help beat cancer in 2015 by supporting research and care today. SUPPORT DANA-FARBER CANCER INSTITUTE
+getting message 79
+snippet: Download At Bat and Subscribe Now View as web page | December 26, 2014 MLB.com MLB.com At Bat. Make
+getting message 80
+snippet: *Available at Boston location only* www.bostonbowl.com Boston Bowl is always looking out for your
+getting message 81
+snippet: This email was sent to you by Santander Bank. To ensure delivery to your inbox, please add email@
+getting message 82
+snippet: PURCHASE TICKETS HERE PRNYE Button Program: What is the button program? This is another way to raise
+getting message 83
+snippet: You can also use this coupon on any mobile or tablet device... Hotels Hotel Deals Packages &amp;
+getting message 84
+snippet: Get 15% off hotels with promo code: GIFTME ORBITZ Hotels Flights Packages Cars Cruises Deals
+getting message 85
+snippet: Take up to 60% our most popular inventions. Quirky New! Best Sellers DIY Quirky+GE Order by midnight
+getting message 86
+snippet: $100 off laptops, desktops and PCs ends soon - treat yourself! Staples Free shipping for Staples
+getting message 87
+snippet: After Christmas Sale: Up to 65% off now through Sunday. FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+getting message 88
+snippet: For Every Outdoor Activity For Every Outdoor Activity View Online Tufts University Logo TEXTBOOKS |
+getting message 89
+snippet: Tufts University End User Digest: 1 New Message For windensemble Elist (windensemble@elist.tufts.edu)
+getting message 90
+snippet: Winter Sale Today! 30% Off 3-Game Packs + Free Ornament View as web page | December 26, 2014
+getting message 91
+snippet: Amazon Order Confirmation Hello Charlie Meyer, Thank you for shopping with us. You ordered &quot;
+getting message 92
+snippet: &quot;amazon.com Prime&quot; Your Amazon.com Today&#39;s Deals Shop All Departments Charlie Meyer,
+getting message 93
+snippet: ASUS Chromebook 12-Inch with Gigabit WiFi, 16GB Storage &amp; 2GB RAM As a reviewer of ASUS
+getting message 94
+snippet: Plus, designer suits just $249.99 and 30% off shoes. FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+getting message 95
+snippet: Thank you Steve! On Thu, Dec 25, 2014 at 7:55 AM, steven lusardi &lt;stevenlusardi33@gmail.com&gt;
+getting message 96
+snippet: Google Play Apps Books Movies Music Newsstand Devices Now available to rent or buy Now available to
+getting message 97
+snippet: I got it !! On Wed, Dec 24, 2014 at 11:17 PM, Edward Beuchert &lt;edward@slidingrock.com&gt; wrote: I
+getting message 98
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 99
+snippet: Plus, designer suits just $249.99 and 30% off shoes. FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+-------------------------- ayyyyyyyy lmao--------------------------------
+id UNREAD
+name UNREAD
+getting message 0
+snippet: Friend -- If you&#39;re working on your New Year&#39;s resolutions, I have a suggestion: Keep being
+getting message 1
+snippet: Happy New Yearenjoy a $5 credit from our partner, VUDU. Can&#39;t see the images? View online Roku
+getting message 2
+snippet: ChallengePost Build your portfolio. Compete in hackathons &amp; challenges. Be a better hacker!
+getting message 3
+snippet: This email was sent to you by Santander Bank. To ensure delivery to your inbox, please add email@
+getting message 4
+snippet: Free US ground shipping on orders over $50. Quirky New! Markdowns Best Sellers Quirky+GE UNWRAP A
+getting message 5
+snippet: Plus, save an extra 15% on hotels with promo code: GIFTME ORBITZ Hotels Flights Packages Cars Cruises
+getting message 6
+snippet: Get started with DVLUP | View the online version. It&#39;s time to DVLUP something amazing Dear
+getting message 7
+snippet: So you&#39;d like to verify the email address linked to your Medium account? Marvelous! Verify your
+getting message 8
+snippet: We will once again be attempting an upgrade of our GitHub Enterprise instance, this time on 6 January
+getting message 9
+snippet: There&#39;s still plenty to celebrate with HTC Hot Deals There&#39;s still plenty to celebrate with
+getting message 10
+snippet: Make your NYE Dinner Reservation Carmela&#39;s - 781.585.2148 Special Menu Above Mamma Mia&#39;s NYE
+getting message 11
+snippet: Welcome to Medium! Before you go out and play on Medium, please verify your email address. Why, you
+getting message 12
+snippet: Charles -- This shouldn&#39;t take more than a minute: OFA wants to know what issue you&#39;re most
+getting message 13
+snippet: Fluencia Learn Spanish charlie, 2015 is right around the corner! The new year is almost here, and
+getting message 14
+snippet: Sophomore students who are interested in the medical, dental, veterinary and public health and health
+getting message 15
+snippet: Me again, Not sure why but pressing the &#39;shift&#39; button then eject worked, so all is well.
+getting message 16
+snippet: Hi all, Just an FYI but CD 1 isn&#39;t playing nice and refuses to release my CD. I had been using it
+getting message 17
+snippet: December 31 tax deadline TOMORROW | Make your gift today  View Web Version | Share Facebook Twitter
+getting message 18
+snippet: Your support makes such a difference. Please give one more gift in 2014. Dear Caring Partner, As we
+getting message 19
+snippet: Don&#39;t miss your chance to save. Staples Free shipping for Staples Rewards  members on all
+getting message 20
+snippet: Having trouble reading this email? View as webpage  | | Forward to a Friend JERSEYS | CAPS |
+getting message 21
+snippet: Shop Essentials to Keep Up Cozy Shop Essentials to Keep Up Cozy View Online Tufts University Logo
+getting message 22
+snippet: GoFundMe campaigns have raised over $620M. Not Interested? Visit GoFundMe.com December 30, 2014 Young
+getting message 23
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 24
+snippet: No one on the schedule. Going to do an extra-long show. (Will probably also do the 5-6 slot next week
+getting message 25
+snippet: Huge savings on restock instruments, accessories, and more. View The Online Version Woodwinds Brass
+getting message 26
+snippet: Charles -- In a few days, the final Congress of my presidency will take their oaths of office. I&#39;
+getting message 27
+snippet: Hi Charlie, Eric (popcorncolonel@gmail.com) invited you to a Dropbox shared folder called &quot;
+getting message 28
+snippet: Go to my console  Welcome to Google Cloud Platform Cloud Platform is designed to make development
+getting message 29
+snippet: Hi Charlie, Eric (popcorncolonel@gmail.com) invited you to a Dropbox shared folder called &quot;
+getting message 30
+snippet: Charles, I bet you have an opinion on this: As we finalize our plans for the months ahead, we want to
+getting message 31
+snippet: Where did you find this cute puppy? On Dec 27, 2014 10:16 PM, &quot;Charlie Meyer&quot; &lt;cmey63@
+getting message 32
+snippet: Let the Ninety Nine Restaurants treat you on your birthday. To view in your browser or on a mobile
+getting message 33
+snippet: Friend -- In a few days, the final Congress of my presidency will take their oaths of office. I&#39;m
+getting message 34
+snippet: Get 15% off with promo code: GIFTME ORBITZ Hotels Flights Packages Cars Cruises Deals Activities
+getting message 35
+snippet: Association for Computing Machinery | About | Current Issue | TechNews Archive | TechNews Apps
+getting message 36
+snippet: 39DollarGlasses.com 1-800-672-6304 Facebook Twitter Google+ Pinterest Home Page Shop Eyeglasses Shop
+getting message 37
+snippet: Buy One Get One FREE on almost everything else! FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;&gt; See
+getting message 38
+snippet: Charles -- The other side has money to burn -- I&#39;m talking tons of it. But OFA has you. You&#39;
+getting message 39
+snippet: Order Early &amp; Save on Textbooks Order Early &amp; Save on Textbooks View Online Tufts University
+getting message 40
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 41
+snippet: Dear charles.meyer, We have received your application
+getting message 42
+snippet: I don&#39;t know what the protocols are to take these open spots during the winter &quot;Holiday
+getting message 43
+snippet: Dear charles.meyer@tufts.edu, To submit a TA application use the password: 58ikh7 at the webpage:
+getting message 44
+snippet: COMP 40 End-of-Term Grade Report for Charles Meyer Your grade on the COMP 40 final exam was: 95.5
+getting message 45
+snippet: Friend -- I spend a lot of my time asking people for money. I&#39;m proud of that, because I know the
+getting message 46
+snippet: Make Your Year-End Tax-Deductible Gift to SSC by Midnight 12/31! Make your charitable year-end gift
+getting message 47
+snippet: email HTML goes here To view your registration, visit your dashboard by clicking this link. Email
+getting message 48
+snippet: Friend -- You heard from President Obama, and we can&#39;t say it any better than he can. What
+getting message 49
+snippet: We&#39;d never forget your birthday! **************************************** Men&#39;s Wearhouse(R)
+getting message 50
+snippet: Exclusive deals only available to email subscribers Hotels Hotel Deals Packages &amp; Flights Groups
+getting message 51
+snippet: Your $5 off $25 coupon has arrived. Staples Free shipping for Staples Rewards  members on all
+getting message 52
+snippet: Plus, Buy One Get One Free on almost everything else FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+getting message 53
+snippet: Friend -- Affordable health care. Fighting climate change. Immigration reform. Those aren&#39;t just
+getting message 54
+snippet: Soft Feel, Lightweight Comfort, Vintage Look Soft Feel, Lightweight Comfort, Vintage Look View Online
+getting message 55
+snippet: Tufts University End User Digest: 1 New Message For windensemble Elist (windensemble@elist.tufts.edu)
+getting message 56
+snippet: Dear Charlie Meyer, Thank you for your recent purchase from Amazon.com! Did you know that you can
+getting message 57
+snippet: 3 days in a row! You&#39;ve coded three days in a row! That&#39;s a great start. KEEP UP YOUR STREAK
+getting message 58
+snippet: 
+getting message 59
+snippet: Charles -- Some folks have started to call this the &quot;fourth quarter&quot; of my presidency. In a
+getting message 60
+snippet: Dear Charles Meyer, You have successfully registered your mobile number on My T-Mobile! With My T-
+getting message 61
+snippet: Need a sub tonight from 9-11. Play what you like; like what you play. Mike Classic Rock Mine -- You
+getting message 62
+snippet: Great movie moments begin tonight. Can&#39;t see the images? View online Roku Now low price on Roku
+getting message 63
+snippet: This email was sent to you by Santander Bank. To ensure delivery to your inbox, please add email@
+getting message 64
+snippet: Save $150 on flight + hotel vacation packages with code: 150VACA ORBITZ Hotels Flights Packages Cars
+getting message 65
+snippet: Friend -- I&#39;ll tell you one big reason I&#39;m pumped for 2015: OFA is going to help train 10000
+getting message 66
+snippet: Charles -- Some folks have started to call this the &quot;fourth quarter&quot; of my presidency. In a
+getting message 67
+snippet: Take a look back at 2014 View this email in your browser 2014 has been a great year for No Barriers
+getting message 68
+snippet: Name a Friend in the new Jimmy Fund Clinic display by 12/31 and be part of the grand re-opening in
+getting message 69
+snippet: Our goal: 15000 donations to help fight cancer | Donate Now  View Web Version | Share Facebook
+getting message 70
+snippet: After Christmas Sale Up to 65% Off FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;&gt; See details ****
+getting message 71
+snippet: $100 Visa gift card with Surface Pro 3. Staples Free shipping for Staples Rewards  members on all
+getting message 72
+snippet: Get 10% off your next order at the Online ProShop [If you cannot view this email, please: click here]
+getting message 73
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 74
+snippet: Amazon Shipping Confirmation Hello Charlie Meyer, &quot;Kingston Digital 240GB...&quot; has shipped.
+getting message 75
+snippet: Richard Kim added comments to resume ruff draft Richard Kim Assisted +1 for verb usage ReplyOpen
+getting message 76
+snippet: Sorry for the mixup! Hi Charles, Our email regarding registration was confusing, so we need to
+getting message 77
+snippet: Save your tax refund and watch it growcommit to save today! View online. Intuit TurboTax Wish your
+getting message 78
+snippet: Help beat cancer in 2015 by supporting research and care today. SUPPORT DANA-FARBER CANCER INSTITUTE
+getting message 79
+snippet: Download At Bat and Subscribe Now View as web page | December 26, 2014 MLB.com MLB.com At Bat. Make
+getting message 80
+snippet: *Available at Boston location only* www.bostonbowl.com Boston Bowl is always looking out for your
+getting message 81
+snippet: This email was sent to you by Santander Bank. To ensure delivery to your inbox, please add email@
+getting message 82
+snippet: PURCHASE TICKETS HERE PRNYE Button Program: What is the button program? This is another way to raise
+getting message 83
+snippet: You can also use this coupon on any mobile or tablet device... Hotels Hotel Deals Packages &amp;
+getting message 84
+snippet: Get 15% off hotels with promo code: GIFTME ORBITZ Hotels Flights Packages Cars Cruises Deals
+getting message 85
+snippet: Take up to 60% our most popular inventions. Quirky New! Best Sellers DIY Quirky+GE Order by midnight
+getting message 86
+snippet: $100 off laptops, desktops and PCs ends soon - treat yourself! Staples Free shipping for Staples
+getting message 87
+snippet: After Christmas Sale: Up to 65% off now through Sunday. FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+getting message 88
+snippet: For Every Outdoor Activity For Every Outdoor Activity View Online Tufts University Logo TEXTBOOKS |
+getting message 89
+snippet: Tufts University End User Digest: 1 New Message For windensemble Elist (windensemble@elist.tufts.edu)
+getting message 90
+snippet: Winter Sale Today! 30% Off 3-Game Packs + Free Ornament View as web page | December 26, 2014
+getting message 91
+snippet: Amazon Order Confirmation Hello Charlie Meyer, Thank you for shopping with us. You ordered &quot;
+getting message 92
+snippet: &quot;amazon.com Prime&quot; Your Amazon.com Today&#39;s Deals Shop All Departments Charlie Meyer,
+getting message 93
+snippet: ASUS Chromebook 12-Inch with Gigabit WiFi, 16GB Storage &amp; 2GB RAM As a reviewer of ASUS
+getting message 94
+snippet: Plus, designer suits just $249.99 and 30% off shoes. FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+getting message 95
+snippet: Thank you Steve! On Thu, Dec 25, 2014 at 7:55 AM, steven lusardi &lt;stevenlusardi33@gmail.com&gt;
+getting message 96
+snippet: Google Play Apps Books Movies Music Newsstand Devices Now available to rent or buy Now available to
+getting message 97
+snippet: I got it !! On Wed, Dec 24, 2014 at 11:17 PM, Edward Beuchert &lt;edward@slidingrock.com&gt; wrote: I
+getting message 98
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 99
+snippet: Plus, designer suits just $249.99 and 30% off shoes. FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+-------------------------- ayyyyyyyy lmao--------------------------------
+id CATEGORY_UPDATES
+name CATEGORY_UPDATES
+getting message 0
+snippet: Friend -- If you&#39;re working on your New Year&#39;s resolutions, I have a suggestion: Keep being
+getting message 1
+snippet: Happy New Yearenjoy a $5 credit from our partner, VUDU. Can&#39;t see the images? View online Roku
+getting message 2
+snippet: ChallengePost Build your portfolio. Compete in hackathons &amp; challenges. Be a better hacker!
+getting message 3
+snippet: This email was sent to you by Santander Bank. To ensure delivery to your inbox, please add email@
+getting message 4
+snippet: Free US ground shipping on orders over $50. Quirky New! Markdowns Best Sellers Quirky+GE UNWRAP A
+getting message 5
+snippet: Plus, save an extra 15% on hotels with promo code: GIFTME ORBITZ Hotels Flights Packages Cars Cruises
+getting message 6
+snippet: Get started with DVLUP | View the online version. It&#39;s time to DVLUP something amazing Dear
+getting message 7
+snippet: So you&#39;d like to verify the email address linked to your Medium account? Marvelous! Verify your
+getting message 8
+snippet: We will once again be attempting an upgrade of our GitHub Enterprise instance, this time on 6 January
+getting message 9
+snippet: There&#39;s still plenty to celebrate with HTC Hot Deals There&#39;s still plenty to celebrate with
+getting message 10
+snippet: Make your NYE Dinner Reservation Carmela&#39;s - 781.585.2148 Special Menu Above Mamma Mia&#39;s NYE
+getting message 11
+snippet: Welcome to Medium! Before you go out and play on Medium, please verify your email address. Why, you
+getting message 12
+snippet: Charles -- This shouldn&#39;t take more than a minute: OFA wants to know what issue you&#39;re most
+getting message 13
+snippet: Fluencia Learn Spanish charlie, 2015 is right around the corner! The new year is almost here, and
+getting message 14
+snippet: Sophomore students who are interested in the medical, dental, veterinary and public health and health
+getting message 15
+snippet: Me again, Not sure why but pressing the &#39;shift&#39; button then eject worked, so all is well.
+getting message 16
+snippet: Hi all, Just an FYI but CD 1 isn&#39;t playing nice and refuses to release my CD. I had been using it
+getting message 17
+snippet: December 31 tax deadline TOMORROW | Make your gift today  View Web Version | Share Facebook Twitter
+getting message 18
+snippet: Your support makes such a difference. Please give one more gift in 2014. Dear Caring Partner, As we
+getting message 19
+snippet: Don&#39;t miss your chance to save. Staples Free shipping for Staples Rewards  members on all
+getting message 20
+snippet: Having trouble reading this email? View as webpage  | | Forward to a Friend JERSEYS | CAPS |
+getting message 21
+snippet: Shop Essentials to Keep Up Cozy Shop Essentials to Keep Up Cozy View Online Tufts University Logo
+getting message 22
+snippet: GoFundMe campaigns have raised over $620M. Not Interested? Visit GoFundMe.com December 30, 2014 Young
+getting message 23
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 24
+snippet: No one on the schedule. Going to do an extra-long show. (Will probably also do the 5-6 slot next week
+getting message 25
+snippet: Huge savings on restock instruments, accessories, and more. View The Online Version Woodwinds Brass
+getting message 26
+snippet: Charles -- In a few days, the final Congress of my presidency will take their oaths of office. I&#39;
+getting message 27
+snippet: Hi Charlie, Eric (popcorncolonel@gmail.com) invited you to a Dropbox shared folder called &quot;
+getting message 28
+snippet: Go to my console  Welcome to Google Cloud Platform Cloud Platform is designed to make development
+getting message 29
+snippet: Hi Charlie, Eric (popcorncolonel@gmail.com) invited you to a Dropbox shared folder called &quot;
+getting message 30
+snippet: Charles, I bet you have an opinion on this: As we finalize our plans for the months ahead, we want to
+getting message 31
+snippet: Where did you find this cute puppy? On Dec 27, 2014 10:16 PM, &quot;Charlie Meyer&quot; &lt;cmey63@
+getting message 32
+snippet: Let the Ninety Nine Restaurants treat you on your birthday. To view in your browser or on a mobile
+getting message 33
+snippet: Friend -- In a few days, the final Congress of my presidency will take their oaths of office. I&#39;m
+getting message 34
+snippet: Get 15% off with promo code: GIFTME ORBITZ Hotels Flights Packages Cars Cruises Deals Activities
+getting message 35
+snippet: Association for Computing Machinery | About | Current Issue | TechNews Archive | TechNews Apps
+getting message 36
+snippet: 39DollarGlasses.com 1-800-672-6304 Facebook Twitter Google+ Pinterest Home Page Shop Eyeglasses Shop
+getting message 37
+snippet: Buy One Get One FREE on almost everything else! FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;&gt; See
+getting message 38
+snippet: Charles -- The other side has money to burn -- I&#39;m talking tons of it. But OFA has you. You&#39;
+getting message 39
+snippet: Order Early &amp; Save on Textbooks Order Early &amp; Save on Textbooks View Online Tufts University
+getting message 40
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 41
+snippet: Dear charles.meyer, We have received your application
+getting message 42
+snippet: I don&#39;t know what the protocols are to take these open spots during the winter &quot;Holiday
+getting message 43
+snippet: Dear charles.meyer@tufts.edu, To submit a TA application use the password: 58ikh7 at the webpage:
+getting message 44
+snippet: COMP 40 End-of-Term Grade Report for Charles Meyer Your grade on the COMP 40 final exam was: 95.5
+getting message 45
+snippet: Friend -- I spend a lot of my time asking people for money. I&#39;m proud of that, because I know the
+getting message 46
+snippet: Make Your Year-End Tax-Deductible Gift to SSC by Midnight 12/31! Make your charitable year-end gift
+getting message 47
+snippet: email HTML goes here To view your registration, visit your dashboard by clicking this link. Email
+getting message 48
+snippet: Friend -- You heard from President Obama, and we can&#39;t say it any better than he can. What
+getting message 49
+snippet: We&#39;d never forget your birthday! **************************************** Men&#39;s Wearhouse(R)
+getting message 50
+snippet: Exclusive deals only available to email subscribers Hotels Hotel Deals Packages &amp; Flights Groups
+getting message 51
+snippet: Your $5 off $25 coupon has arrived. Staples Free shipping for Staples Rewards  members on all
+getting message 52
+snippet: Plus, Buy One Get One Free on almost everything else FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+getting message 53
+snippet: Friend -- Affordable health care. Fighting climate change. Immigration reform. Those aren&#39;t just
+getting message 54
+snippet: Soft Feel, Lightweight Comfort, Vintage Look Soft Feel, Lightweight Comfort, Vintage Look View Online
+getting message 55
+snippet: Tufts University End User Digest: 1 New Message For windensemble Elist (windensemble@elist.tufts.edu)
+getting message 56
+snippet: Dear Charlie Meyer, Thank you for your recent purchase from Amazon.com! Did you know that you can
+getting message 57
+snippet: 3 days in a row! You&#39;ve coded three days in a row! That&#39;s a great start. KEEP UP YOUR STREAK
+getting message 58
+snippet: 
+getting message 59
+snippet: Charles -- Some folks have started to call this the &quot;fourth quarter&quot; of my presidency. In a
+getting message 60
+snippet: Dear Charles Meyer, You have successfully registered your mobile number on My T-Mobile! With My T-
+getting message 61
+snippet: Need a sub tonight from 9-11. Play what you like; like what you play. Mike Classic Rock Mine -- You
+getting message 62
+snippet: Great movie moments begin tonight. Can&#39;t see the images? View online Roku Now low price on Roku
+getting message 63
+snippet: This email was sent to you by Santander Bank. To ensure delivery to your inbox, please add email@
+getting message 64
+snippet: Save $150 on flight + hotel vacation packages with code: 150VACA ORBITZ Hotels Flights Packages Cars
+getting message 65
+snippet: Friend -- I&#39;ll tell you one big reason I&#39;m pumped for 2015: OFA is going to help train 10000
+getting message 66
+snippet: Charles -- Some folks have started to call this the &quot;fourth quarter&quot; of my presidency. In a
+getting message 67
+snippet: Take a look back at 2014 View this email in your browser 2014 has been a great year for No Barriers
+getting message 68
+snippet: Name a Friend in the new Jimmy Fund Clinic display by 12/31 and be part of the grand re-opening in
+getting message 69
+snippet: Our goal: 15000 donations to help fight cancer | Donate Now  View Web Version | Share Facebook
+getting message 70
+snippet: After Christmas Sale Up to 65% Off FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;&gt; See details ****
+getting message 71
+snippet: $100 Visa gift card with Surface Pro 3. Staples Free shipping for Staples Rewards  members on all
+getting message 72
+snippet: Get 10% off your next order at the Online ProShop [If you cannot view this email, please: click here]
+getting message 73
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 74
+snippet: Amazon Shipping Confirmation Hello Charlie Meyer, &quot;Kingston Digital 240GB...&quot; has shipped.
+getting message 75
+snippet: Richard Kim added comments to resume ruff draft Richard Kim Assisted +1 for verb usage ReplyOpen
+getting message 76
+snippet: Sorry for the mixup! Hi Charles, Our email regarding registration was confusing, so we need to
+getting message 77
+snippet: Save your tax refund and watch it growcommit to save today! View online. Intuit TurboTax Wish your
+getting message 78
+snippet: Help beat cancer in 2015 by supporting research and care today. SUPPORT DANA-FARBER CANCER INSTITUTE
+getting message 79
+snippet: Download At Bat and Subscribe Now View as web page | December 26, 2014 MLB.com MLB.com At Bat. Make
+getting message 80
+snippet: *Available at Boston location only* www.bostonbowl.com Boston Bowl is always looking out for your
+getting message 81
+snippet: This email was sent to you by Santander Bank. To ensure delivery to your inbox, please add email@
+getting message 82
+snippet: PURCHASE TICKETS HERE PRNYE Button Program: What is the button program? This is another way to raise
+getting message 83
+snippet: You can also use this coupon on any mobile or tablet device... Hotels Hotel Deals Packages &amp;
+getting message 84
+snippet: Get 15% off hotels with promo code: GIFTME ORBITZ Hotels Flights Packages Cars Cruises Deals
+getting message 85
+snippet: Take up to 60% our most popular inventions. Quirky New! Best Sellers DIY Quirky+GE Order by midnight
+getting message 86
+snippet: $100 off laptops, desktops and PCs ends soon - treat yourself! Staples Free shipping for Staples
+getting message 87
+snippet: After Christmas Sale: Up to 65% off now through Sunday. FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+getting message 88
+snippet: For Every Outdoor Activity For Every Outdoor Activity View Online Tufts University Logo TEXTBOOKS |
+getting message 89
+snippet: Tufts University End User Digest: 1 New Message For windensemble Elist (windensemble@elist.tufts.edu)
+getting message 90
+snippet: Winter Sale Today! 30% Off 3-Game Packs + Free Ornament View as web page | December 26, 2014
+getting message 91
+snippet: Amazon Order Confirmation Hello Charlie Meyer, Thank you for shopping with us. You ordered &quot;
+getting message 92
+snippet: &quot;amazon.com Prime&quot; Your Amazon.com Today&#39;s Deals Shop All Departments Charlie Meyer,
+getting message 93
+snippet: ASUS Chromebook 12-Inch with Gigabit WiFi, 16GB Storage &amp; 2GB RAM As a reviewer of ASUS
+getting message 94
+snippet: Plus, designer suits just $249.99 and 30% off shoes. FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+getting message 95
+snippet: Thank you Steve! On Thu, Dec 25, 2014 at 7:55 AM, steven lusardi &lt;stevenlusardi33@gmail.com&gt;
+getting message 96
+snippet: Google Play Apps Books Movies Music Newsstand Devices Now available to rent or buy Now available to
+getting message 97
+snippet: I got it !! On Wed, Dec 24, 2014 at 11:17 PM, Edward Beuchert &lt;edward@slidingrock.com&gt; wrote: I
+getting message 98
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 99
+snippet: Plus, designer suits just $249.99 and 30% off shoes. FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+-------------------------- ayyyyyyyy lmao--------------------------------
+id INBOX
+name INBOX
+getting message 0
+snippet: Friend -- If you&#39;re working on your New Year&#39;s resolutions, I have a suggestion: Keep being
+getting message 1
+snippet: Happy New Yearenjoy a $5 credit from our partner, VUDU. Can&#39;t see the images? View online Roku
+getting message 2
+snippet: ChallengePost Build your portfolio. Compete in hackathons &amp; challenges. Be a better hacker!
+getting message 3
+snippet: This email was sent to you by Santander Bank. To ensure delivery to your inbox, please add email@
+getting message 4
+snippet: Free US ground shipping on orders over $50. Quirky New! Markdowns Best Sellers Quirky+GE UNWRAP A
+getting message 5
+snippet: Plus, save an extra 15% on hotels with promo code: GIFTME ORBITZ Hotels Flights Packages Cars Cruises
+getting message 6
+snippet: Get started with DVLUP | View the online version. It&#39;s time to DVLUP something amazing Dear
+getting message 7
+snippet: So you&#39;d like to verify the email address linked to your Medium account? Marvelous! Verify your
+getting message 8
+snippet: We will once again be attempting an upgrade of our GitHub Enterprise instance, this time on 6 January
+getting message 9
+snippet: There&#39;s still plenty to celebrate with HTC Hot Deals There&#39;s still plenty to celebrate with
+getting message 10
+snippet: Make your NYE Dinner Reservation Carmela&#39;s - 781.585.2148 Special Menu Above Mamma Mia&#39;s NYE
+getting message 11
+snippet: Welcome to Medium! Before you go out and play on Medium, please verify your email address. Why, you
+getting message 12
+snippet: Charles -- This shouldn&#39;t take more than a minute: OFA wants to know what issue you&#39;re most
+getting message 13
+snippet: Fluencia Learn Spanish charlie, 2015 is right around the corner! The new year is almost here, and
+getting message 14
+snippet: Sophomore students who are interested in the medical, dental, veterinary and public health and health
+getting message 15
+snippet: Me again, Not sure why but pressing the &#39;shift&#39; button then eject worked, so all is well.
+getting message 16
+snippet: Hi all, Just an FYI but CD 1 isn&#39;t playing nice and refuses to release my CD. I had been using it
+getting message 17
+snippet: December 31 tax deadline TOMORROW | Make your gift today  View Web Version | Share Facebook Twitter
+getting message 18
+snippet: Your support makes such a difference. Please give one more gift in 2014. Dear Caring Partner, As we
+getting message 19
+snippet: Don&#39;t miss your chance to save. Staples Free shipping for Staples Rewards  members on all
+getting message 20
+snippet: Having trouble reading this email? View as webpage  | | Forward to a Friend JERSEYS | CAPS |
+getting message 21
+snippet: Shop Essentials to Keep Up Cozy Shop Essentials to Keep Up Cozy View Online Tufts University Logo
+getting message 22
+snippet: GoFundMe campaigns have raised over $620M. Not Interested? Visit GoFundMe.com December 30, 2014 Young
+getting message 23
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 24
+snippet: No one on the schedule. Going to do an extra-long show. (Will probably also do the 5-6 slot next week
+getting message 25
+snippet: Huge savings on restock instruments, accessories, and more. View The Online Version Woodwinds Brass
+getting message 26
+snippet: Charles -- In a few days, the final Congress of my presidency will take their oaths of office. I&#39;
+getting message 27
+snippet: Hi Charlie, Eric (popcorncolonel@gmail.com) invited you to a Dropbox shared folder called &quot;
+getting message 28
+snippet: Go to my console  Welcome to Google Cloud Platform Cloud Platform is designed to make development
+getting message 29
+snippet: Hi Charlie, Eric (popcorncolonel@gmail.com) invited you to a Dropbox shared folder called &quot;
+getting message 30
+snippet: Charles, I bet you have an opinion on this: As we finalize our plans for the months ahead, we want to
+getting message 31
+snippet: Where did you find this cute puppy? On Dec 27, 2014 10:16 PM, &quot;Charlie Meyer&quot; &lt;cmey63@
+getting message 32
+snippet: Let the Ninety Nine Restaurants treat you on your birthday. To view in your browser or on a mobile
+getting message 33
+snippet: Friend -- In a few days, the final Congress of my presidency will take their oaths of office. I&#39;m
+getting message 34
+snippet: Get 15% off with promo code: GIFTME ORBITZ Hotels Flights Packages Cars Cruises Deals Activities
+getting message 35
+snippet: Association for Computing Machinery | About | Current Issue | TechNews Archive | TechNews Apps
+getting message 36
+snippet: 39DollarGlasses.com 1-800-672-6304 Facebook Twitter Google+ Pinterest Home Page Shop Eyeglasses Shop
+getting message 37
+snippet: Buy One Get One FREE on almost everything else! FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;&gt; See
+getting message 38
+snippet: Charles -- The other side has money to burn -- I&#39;m talking tons of it. But OFA has you. You&#39;
+getting message 39
+snippet: Order Early &amp; Save on Textbooks Order Early &amp; Save on Textbooks View Online Tufts University
+getting message 40
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 41
+snippet: Dear charles.meyer, We have received your application
+getting message 42
+snippet: I don&#39;t know what the protocols are to take these open spots during the winter &quot;Holiday
+getting message 43
+snippet: Dear charles.meyer@tufts.edu, To submit a TA application use the password: 58ikh7 at the webpage:
+getting message 44
+snippet: COMP 40 End-of-Term Grade Report for Charles Meyer Your grade on the COMP 40 final exam was: 95.5
+getting message 45
+snippet: Friend -- I spend a lot of my time asking people for money. I&#39;m proud of that, because I know the
+getting message 46
+snippet: Make Your Year-End Tax-Deductible Gift to SSC by Midnight 12/31! Make your charitable year-end gift
+getting message 47
+snippet: email HTML goes here To view your registration, visit your dashboard by clicking this link. Email
+getting message 48
+snippet: Friend -- You heard from President Obama, and we can&#39;t say it any better than he can. What
+getting message 49
+snippet: We&#39;d never forget your birthday! **************************************** Men&#39;s Wearhouse(R)
+getting message 50
+snippet: Exclusive deals only available to email subscribers Hotels Hotel Deals Packages &amp; Flights Groups
+getting message 51
+snippet: Your $5 off $25 coupon has arrived. Staples Free shipping for Staples Rewards  members on all
+getting message 52
+snippet: Plus, Buy One Get One Free on almost everything else FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+getting message 53
+snippet: Friend -- Affordable health care. Fighting climate change. Immigration reform. Those aren&#39;t just
+getting message 54
+snippet: Soft Feel, Lightweight Comfort, Vintage Look Soft Feel, Lightweight Comfort, Vintage Look View Online
+getting message 55
+snippet: Tufts University End User Digest: 1 New Message For windensemble Elist (windensemble@elist.tufts.edu)
+getting message 56
+snippet: Dear Charlie Meyer, Thank you for your recent purchase from Amazon.com! Did you know that you can
+getting message 57
+snippet: 3 days in a row! You&#39;ve coded three days in a row! That&#39;s a great start. KEEP UP YOUR STREAK
+getting message 58
+snippet: 
+getting message 59
+snippet: Charles -- Some folks have started to call this the &quot;fourth quarter&quot; of my presidency. In a
+getting message 60
+snippet: Dear Charles Meyer, You have successfully registered your mobile number on My T-Mobile! With My T-
+getting message 61
+snippet: Need a sub tonight from 9-11. Play what you like; like what you play. Mike Classic Rock Mine -- You
+getting message 62
+snippet: Great movie moments begin tonight. Can&#39;t see the images? View online Roku Now low price on Roku
+getting message 63
+snippet: This email was sent to you by Santander Bank. To ensure delivery to your inbox, please add email@
+getting message 64
+snippet: Save $150 on flight + hotel vacation packages with code: 150VACA ORBITZ Hotels Flights Packages Cars
+getting message 65
+snippet: Friend -- I&#39;ll tell you one big reason I&#39;m pumped for 2015: OFA is going to help train 10000
+getting message 66
+snippet: Charles -- Some folks have started to call this the &quot;fourth quarter&quot; of my presidency. In a
+getting message 67
+snippet: Take a look back at 2014 View this email in your browser 2014 has been a great year for No Barriers
+getting message 68
+snippet: Name a Friend in the new Jimmy Fund Clinic display by 12/31 and be part of the grand re-opening in
+getting message 69
+snippet: Our goal: 15000 donations to help fight cancer | Donate Now  View Web Version | Share Facebook
+getting message 70
+snippet: After Christmas Sale Up to 65% Off FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;&gt; See details ****
+getting message 71
+snippet: $100 Visa gift card with Surface Pro 3. Staples Free shipping for Staples Rewards  members on all
+getting message 72
+snippet: Get 10% off your next order at the Online ProShop [If you cannot view this email, please: click here]
+getting message 73
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 74
+snippet: Amazon Shipping Confirmation Hello Charlie Meyer, &quot;Kingston Digital 240GB...&quot; has shipped.
+getting message 75
+snippet: Richard Kim added comments to resume ruff draft Richard Kim Assisted +1 for verb usage ReplyOpen
+getting message 76
+snippet: Sorry for the mixup! Hi Charles, Our email regarding registration was confusing, so we need to
+getting message 77
+snippet: Save your tax refund and watch it growcommit to save today! View online. Intuit TurboTax Wish your
+getting message 78
+snippet: Help beat cancer in 2015 by supporting research and care today. SUPPORT DANA-FARBER CANCER INSTITUTE
+getting message 79
+snippet: Download At Bat and Subscribe Now View as web page | December 26, 2014 MLB.com MLB.com At Bat. Make
+getting message 80
+snippet: *Available at Boston location only* www.bostonbowl.com Boston Bowl is always looking out for your
+getting message 81
+snippet: This email was sent to you by Santander Bank. To ensure delivery to your inbox, please add email@
+getting message 82
+snippet: PURCHASE TICKETS HERE PRNYE Button Program: What is the button program? This is another way to raise
+getting message 83
+snippet: You can also use this coupon on any mobile or tablet device... Hotels Hotel Deals Packages &amp;
+getting message 84
+snippet: Get 15% off hotels with promo code: GIFTME ORBITZ Hotels Flights Packages Cars Cruises Deals
+getting message 85
+snippet: Take up to 60% our most popular inventions. Quirky New! Best Sellers DIY Quirky+GE Order by midnight
+getting message 86
+snippet: $100 off laptops, desktops and PCs ends soon - treat yourself! Staples Free shipping for Staples
+getting message 87
+snippet: After Christmas Sale: Up to 65% off now through Sunday. FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+getting message 88
+snippet: For Every Outdoor Activity For Every Outdoor Activity View Online Tufts University Logo TEXTBOOKS |
+getting message 89
+snippet: Tufts University End User Digest: 1 New Message For windensemble Elist (windensemble@elist.tufts.edu)
+getting message 90
+snippet: Winter Sale Today! 30% Off 3-Game Packs + Free Ornament View as web page | December 26, 2014
+getting message 91
+snippet: Amazon Order Confirmation Hello Charlie Meyer, Thank you for shopping with us. You ordered &quot;
+getting message 92
+snippet: &quot;amazon.com Prime&quot; Your Amazon.com Today&#39;s Deals Shop All Departments Charlie Meyer,
+getting message 93
+snippet: ASUS Chromebook 12-Inch with Gigabit WiFi, 16GB Storage &amp; 2GB RAM As a reviewer of ASUS
+getting message 94
+snippet: Plus, designer suits just $249.99 and 30% off shoes. FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+getting message 95
+snippet: Thank you Steve! On Thu, Dec 25, 2014 at 7:55 AM, steven lusardi &lt;stevenlusardi33@gmail.com&gt;
+getting message 96
+snippet: Google Play Apps Books Movies Music Newsstand Devices Now available to rent or buy Now available to
+getting message 97
+snippet: I got it !! On Wed, Dec 24, 2014 at 11:17 PM, Edward Beuchert &lt;edward@slidingrock.com&gt; wrote: I
+getting message 98
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 99
+snippet: Plus, designer suits just $249.99 and 30% off shoes. FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+-------------------------- ayyyyyyyy lmao--------------------------------
+id CATEGORY_PROMOTIONS
+name CATEGORY_PROMOTIONS
+getting message 0
+snippet: Friend -- If you&#39;re working on your New Year&#39;s resolutions, I have a suggestion: Keep being
+getting message 1
+snippet: Happy New Yearenjoy a $5 credit from our partner, VUDU. Can&#39;t see the images? View online Roku
+getting message 2
+snippet: ChallengePost Build your portfolio. Compete in hackathons &amp; challenges. Be a better hacker!
+getting message 3
+snippet: This email was sent to you by Santander Bank. To ensure delivery to your inbox, please add email@
+getting message 4
+snippet: Free US ground shipping on orders over $50. Quirky New! Markdowns Best Sellers Quirky+GE UNWRAP A
+getting message 5
+snippet: Plus, save an extra 15% on hotels with promo code: GIFTME ORBITZ Hotels Flights Packages Cars Cruises
+getting message 6
+snippet: Get started with DVLUP | View the online version. It&#39;s time to DVLUP something amazing Dear
+getting message 7
+snippet: So you&#39;d like to verify the email address linked to your Medium account? Marvelous! Verify your
+getting message 8
+snippet: We will once again be attempting an upgrade of our GitHub Enterprise instance, this time on 6 January
+getting message 9
+snippet: There&#39;s still plenty to celebrate with HTC Hot Deals There&#39;s still plenty to celebrate with
+getting message 10
+snippet: Make your NYE Dinner Reservation Carmela&#39;s - 781.585.2148 Special Menu Above Mamma Mia&#39;s NYE
+getting message 11
+snippet: Welcome to Medium! Before you go out and play on Medium, please verify your email address. Why, you
+getting message 12
+snippet: Charles -- This shouldn&#39;t take more than a minute: OFA wants to know what issue you&#39;re most
+getting message 13
+snippet: Fluencia Learn Spanish charlie, 2015 is right around the corner! The new year is almost here, and
+getting message 14
+snippet: Sophomore students who are interested in the medical, dental, veterinary and public health and health
+getting message 15
+snippet: Me again, Not sure why but pressing the &#39;shift&#39; button then eject worked, so all is well.
+getting message 16
+snippet: Hi all, Just an FYI but CD 1 isn&#39;t playing nice and refuses to release my CD. I had been using it
+getting message 17
+snippet: December 31 tax deadline TOMORROW | Make your gift today  View Web Version | Share Facebook Twitter
+getting message 18
+snippet: Your support makes such a difference. Please give one more gift in 2014. Dear Caring Partner, As we
+getting message 19
+snippet: Don&#39;t miss your chance to save. Staples Free shipping for Staples Rewards  members on all
+getting message 20
+snippet: Having trouble reading this email? View as webpage  | | Forward to a Friend JERSEYS | CAPS |
+getting message 21
+snippet: Shop Essentials to Keep Up Cozy Shop Essentials to Keep Up Cozy View Online Tufts University Logo
+getting message 22
+snippet: GoFundMe campaigns have raised over $620M. Not Interested? Visit GoFundMe.com December 30, 2014 Young
+getting message 23
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 24
+snippet: No one on the schedule. Going to do an extra-long show. (Will probably also do the 5-6 slot next week
+getting message 25
+snippet: Huge savings on restock instruments, accessories, and more. View The Online Version Woodwinds Brass
+getting message 26
+snippet: Charles -- In a few days, the final Congress of my presidency will take their oaths of office. I&#39;
+getting message 27
+snippet: Hi Charlie, Eric (popcorncolonel@gmail.com) invited you to a Dropbox shared folder called &quot;
+getting message 28
+snippet: Go to my console  Welcome to Google Cloud Platform Cloud Platform is designed to make development
+getting message 29
+snippet: Hi Charlie, Eric (popcorncolonel@gmail.com) invited you to a Dropbox shared folder called &quot;
+getting message 30
+snippet: Charles, I bet you have an opinion on this: As we finalize our plans for the months ahead, we want to
+getting message 31
+snippet: Where did you find this cute puppy? On Dec 27, 2014 10:16 PM, &quot;Charlie Meyer&quot; &lt;cmey63@
+getting message 32
+snippet: Let the Ninety Nine Restaurants treat you on your birthday. To view in your browser or on a mobile
+getting message 33
+snippet: Friend -- In a few days, the final Congress of my presidency will take their oaths of office. I&#39;m
+getting message 34
+snippet: Get 15% off with promo code: GIFTME ORBITZ Hotels Flights Packages Cars Cruises Deals Activities
+getting message 35
+snippet: Association for Computing Machinery | About | Current Issue | TechNews Archive | TechNews Apps
+getting message 36
+snippet: 39DollarGlasses.com 1-800-672-6304 Facebook Twitter Google+ Pinterest Home Page Shop Eyeglasses Shop
+getting message 37
+snippet: Buy One Get One FREE on almost everything else! FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;&gt; See
+getting message 38
+snippet: Charles -- The other side has money to burn -- I&#39;m talking tons of it. But OFA has you. You&#39;
+getting message 39
+snippet: Order Early &amp; Save on Textbooks Order Early &amp; Save on Textbooks View Online Tufts University
+getting message 40
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 41
+snippet: Dear charles.meyer, We have received your application
+getting message 42
+snippet: I don&#39;t know what the protocols are to take these open spots during the winter &quot;Holiday
+getting message 43
+snippet: Dear charles.meyer@tufts.edu, To submit a TA application use the password: 58ikh7 at the webpage:
+getting message 44
+snippet: COMP 40 End-of-Term Grade Report for Charles Meyer Your grade on the COMP 40 final exam was: 95.5
+getting message 45
+snippet: Friend -- I spend a lot of my time asking people for money. I&#39;m proud of that, because I know the
+getting message 46
+snippet: Make Your Year-End Tax-Deductible Gift to SSC by Midnight 12/31! Make your charitable year-end gift
+getting message 47
+snippet: email HTML goes here To view your registration, visit your dashboard by clicking this link. Email
+getting message 48
+snippet: Friend -- You heard from President Obama, and we can&#39;t say it any better than he can. What
+getting message 49
+snippet: We&#39;d never forget your birthday! **************************************** Men&#39;s Wearhouse(R)
+getting message 50
+snippet: Exclusive deals only available to email subscribers Hotels Hotel Deals Packages &amp; Flights Groups
+getting message 51
+snippet: Your $5 off $25 coupon has arrived. Staples Free shipping for Staples Rewards  members on all
+getting message 52
+snippet: Plus, Buy One Get One Free on almost everything else FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+getting message 53
+snippet: Friend -- Affordable health care. Fighting climate change. Immigration reform. Those aren&#39;t just
+getting message 54
+snippet: Soft Feel, Lightweight Comfort, Vintage Look Soft Feel, Lightweight Comfort, Vintage Look View Online
+getting message 55
+snippet: Tufts University End User Digest: 1 New Message For windensemble Elist (windensemble@elist.tufts.edu)
+getting message 56
+snippet: Dear Charlie Meyer, Thank you for your recent purchase from Amazon.com! Did you know that you can
+getting message 57
+snippet: 3 days in a row! You&#39;ve coded three days in a row! That&#39;s a great start. KEEP UP YOUR STREAK
+getting message 58
+snippet: 
+getting message 59
+snippet: Charles -- Some folks have started to call this the &quot;fourth quarter&quot; of my presidency. In a
+getting message 60
+snippet: Dear Charles Meyer, You have successfully registered your mobile number on My T-Mobile! With My T-
+getting message 61
+snippet: Need a sub tonight from 9-11. Play what you like; like what you play. Mike Classic Rock Mine -- You
+getting message 62
+snippet: Great movie moments begin tonight. Can&#39;t see the images? View online Roku Now low price on Roku
+getting message 63
+snippet: This email was sent to you by Santander Bank. To ensure delivery to your inbox, please add email@
+getting message 64
+snippet: Save $150 on flight + hotel vacation packages with code: 150VACA ORBITZ Hotels Flights Packages Cars
+getting message 65
+snippet: Friend -- I&#39;ll tell you one big reason I&#39;m pumped for 2015: OFA is going to help train 10000
+getting message 66
+snippet: Charles -- Some folks have started to call this the &quot;fourth quarter&quot; of my presidency. In a
+getting message 67
+snippet: Take a look back at 2014 View this email in your browser 2014 has been a great year for No Barriers
+getting message 68
+snippet: Name a Friend in the new Jimmy Fund Clinic display by 12/31 and be part of the grand re-opening in
+getting message 69
+snippet: Our goal: 15000 donations to help fight cancer | Donate Now  View Web Version | Share Facebook
+getting message 70
+snippet: After Christmas Sale Up to 65% Off FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;&gt; See details ****
+getting message 71
+snippet: $100 Visa gift card with Surface Pro 3. Staples Free shipping for Staples Rewards  members on all
+getting message 72
+snippet: Get 10% off your next order at the Online ProShop [If you cannot view this email, please: click here]
+getting message 73
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 74
+snippet: Amazon Shipping Confirmation Hello Charlie Meyer, &quot;Kingston Digital 240GB...&quot; has shipped.
+getting message 75
+snippet: Richard Kim added comments to resume ruff draft Richard Kim Assisted +1 for verb usage ReplyOpen
+getting message 76
+snippet: Sorry for the mixup! Hi Charles, Our email regarding registration was confusing, so we need to
+getting message 77
+snippet: Save your tax refund and watch it growcommit to save today! View online. Intuit TurboTax Wish your
+getting message 78
+snippet: Help beat cancer in 2015 by supporting research and care today. SUPPORT DANA-FARBER CANCER INSTITUTE
+getting message 79
+snippet: Download At Bat and Subscribe Now View as web page | December 26, 2014 MLB.com MLB.com At Bat. Make
+getting message 80
+snippet: *Available at Boston location only* www.bostonbowl.com Boston Bowl is always looking out for your
+getting message 81
+snippet: This email was sent to you by Santander Bank. To ensure delivery to your inbox, please add email@
+getting message 82
+snippet: PURCHASE TICKETS HERE PRNYE Button Program: What is the button program? This is another way to raise
+getting message 83
+snippet: You can also use this coupon on any mobile or tablet device... Hotels Hotel Deals Packages &amp;
+getting message 84
+snippet: Get 15% off hotels with promo code: GIFTME ORBITZ Hotels Flights Packages Cars Cruises Deals
+getting message 85
+snippet: Take up to 60% our most popular inventions. Quirky New! Best Sellers DIY Quirky+GE Order by midnight
+getting message 86
+snippet: $100 off laptops, desktops and PCs ends soon - treat yourself! Staples Free shipping for Staples
+getting message 87
+snippet: After Christmas Sale: Up to 65% off now through Sunday. FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+getting message 88
+snippet: For Every Outdoor Activity For Every Outdoor Activity View Online Tufts University Logo TEXTBOOKS |
+getting message 89
+snippet: Tufts University End User Digest: 1 New Message For windensemble Elist (windensemble@elist.tufts.edu)
+getting message 90
+snippet: Winter Sale Today! 30% Off 3-Game Packs + Free Ornament View as web page | December 26, 2014
+getting message 91
+snippet: Amazon Order Confirmation Hello Charlie Meyer, Thank you for shopping with us. You ordered &quot;
+getting message 92
+snippet: &quot;amazon.com Prime&quot; Your Amazon.com Today&#39;s Deals Shop All Departments Charlie Meyer,
+getting message 93
+snippet: ASUS Chromebook 12-Inch with Gigabit WiFi, 16GB Storage &amp; 2GB RAM As a reviewer of ASUS
+getting message 94
+snippet: Plus, designer suits just $249.99 and 30% off shoes. FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+getting message 95
+snippet: Thank you Steve! On Thu, Dec 25, 2014 at 7:55 AM, steven lusardi &lt;stevenlusardi33@gmail.com&gt;
+getting message 96
+snippet: Google Play Apps Books Movies Music Newsstand Devices Now available to rent or buy Now available to
+getting message 97
+snippet: I got it !! On Wed, Dec 24, 2014 at 11:17 PM, Edward Beuchert &lt;edward@slidingrock.com&gt; wrote: I
+getting message 98
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 99
+snippet: Plus, designer suits just $249.99 and 30% off shoes. FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+-------------------------- ayyyyyyyy lmao--------------------------------
+id CATEGORY_SOCIAL
+name CATEGORY_SOCIAL
+getting message 0
+snippet: Friend -- If you&#39;re working on your New Year&#39;s resolutions, I have a suggestion: Keep being
+getting message 1
+snippet: Happy New Yearenjoy a $5 credit from our partner, VUDU. Can&#39;t see the images? View online Roku
+getting message 2
+snippet: ChallengePost Build your portfolio. Compete in hackathons &amp; challenges. Be a better hacker!
+getting message 3
+snippet: This email was sent to you by Santander Bank. To ensure delivery to your inbox, please add email@
+getting message 4
+snippet: Free US ground shipping on orders over $50. Quirky New! Markdowns Best Sellers Quirky+GE UNWRAP A
+getting message 5
+snippet: Plus, save an extra 15% on hotels with promo code: GIFTME ORBITZ Hotels Flights Packages Cars Cruises
+getting message 6
+snippet: Get started with DVLUP | View the online version. It&#39;s time to DVLUP something amazing Dear
+getting message 7
+snippet: So you&#39;d like to verify the email address linked to your Medium account? Marvelous! Verify your
+getting message 8
+snippet: We will once again be attempting an upgrade of our GitHub Enterprise instance, this time on 6 January
+getting message 9
+snippet: There&#39;s still plenty to celebrate with HTC Hot Deals There&#39;s still plenty to celebrate with
+getting message 10
+snippet: Make your NYE Dinner Reservation Carmela&#39;s - 781.585.2148 Special Menu Above Mamma Mia&#39;s NYE
+getting message 11
+snippet: Welcome to Medium! Before you go out and play on Medium, please verify your email address. Why, you
+getting message 12
+snippet: Charles -- This shouldn&#39;t take more than a minute: OFA wants to know what issue you&#39;re most
+getting message 13
+snippet: Fluencia Learn Spanish charlie, 2015 is right around the corner! The new year is almost here, and
+getting message 14
+snippet: Sophomore students who are interested in the medical, dental, veterinary and public health and health
+getting message 15
+snippet: Me again, Not sure why but pressing the &#39;shift&#39; button then eject worked, so all is well.
+getting message 16
+snippet: Hi all, Just an FYI but CD 1 isn&#39;t playing nice and refuses to release my CD. I had been using it
+getting message 17
+snippet: December 31 tax deadline TOMORROW | Make your gift today  View Web Version | Share Facebook Twitter
+getting message 18
+snippet: Your support makes such a difference. Please give one more gift in 2014. Dear Caring Partner, As we
+getting message 19
+snippet: Don&#39;t miss your chance to save. Staples Free shipping for Staples Rewards  members on all
+getting message 20
+snippet: Having trouble reading this email? View as webpage  | | Forward to a Friend JERSEYS | CAPS |
+getting message 21
+snippet: Shop Essentials to Keep Up Cozy Shop Essentials to Keep Up Cozy View Online Tufts University Logo
+getting message 22
+snippet: GoFundMe campaigns have raised over $620M. Not Interested? Visit GoFundMe.com December 30, 2014 Young
+getting message 23
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 24
+snippet: No one on the schedule. Going to do an extra-long show. (Will probably also do the 5-6 slot next week
+getting message 25
+snippet: Huge savings on restock instruments, accessories, and more. View The Online Version Woodwinds Brass
+getting message 26
+snippet: Charles -- In a few days, the final Congress of my presidency will take their oaths of office. I&#39;
+getting message 27
+snippet: Hi Charlie, Eric (popcorncolonel@gmail.com) invited you to a Dropbox shared folder called &quot;
+getting message 28
+snippet: Go to my console  Welcome to Google Cloud Platform Cloud Platform is designed to make development
+getting message 29
+snippet: Hi Charlie, Eric (popcorncolonel@gmail.com) invited you to a Dropbox shared folder called &quot;
+getting message 30
+snippet: Charles, I bet you have an opinion on this: As we finalize our plans for the months ahead, we want to
+getting message 31
+snippet: Where did you find this cute puppy? On Dec 27, 2014 10:16 PM, &quot;Charlie Meyer&quot; &lt;cmey63@
+getting message 32
+snippet: Let the Ninety Nine Restaurants treat you on your birthday. To view in your browser or on a mobile
+getting message 33
+snippet: Friend -- In a few days, the final Congress of my presidency will take their oaths of office. I&#39;m
+getting message 34
+snippet: Get 15% off with promo code: GIFTME ORBITZ Hotels Flights Packages Cars Cruises Deals Activities
+getting message 35
+snippet: Association for Computing Machinery | About | Current Issue | TechNews Archive | TechNews Apps
+getting message 36
+snippet: 39DollarGlasses.com 1-800-672-6304 Facebook Twitter Google+ Pinterest Home Page Shop Eyeglasses Shop
+getting message 37
+snippet: Buy One Get One FREE on almost everything else! FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;&gt; See
+getting message 38
+snippet: Charles -- The other side has money to burn -- I&#39;m talking tons of it. But OFA has you. You&#39;
+getting message 39
+snippet: Order Early &amp; Save on Textbooks Order Early &amp; Save on Textbooks View Online Tufts University
+getting message 40
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 41
+snippet: Dear charles.meyer, We have received your application
+getting message 42
+snippet: I don&#39;t know what the protocols are to take these open spots during the winter &quot;Holiday
+getting message 43
+snippet: Dear charles.meyer@tufts.edu, To submit a TA application use the password: 58ikh7 at the webpage:
+getting message 44
+snippet: COMP 40 End-of-Term Grade Report for Charles Meyer Your grade on the COMP 40 final exam was: 95.5
+getting message 45
+snippet: Friend -- I spend a lot of my time asking people for money. I&#39;m proud of that, because I know the
+getting message 46
+snippet: Make Your Year-End Tax-Deductible Gift to SSC by Midnight 12/31! Make your charitable year-end gift
+getting message 47
+snippet: email HTML goes here To view your registration, visit your dashboard by clicking this link. Email
+getting message 48
+snippet: Friend -- You heard from President Obama, and we can&#39;t say it any better than he can. What
+getting message 49
+snippet: We&#39;d never forget your birthday! **************************************** Men&#39;s Wearhouse(R)
+getting message 50
+snippet: Exclusive deals only available to email subscribers Hotels Hotel Deals Packages &amp; Flights Groups
+getting message 51
+snippet: Your $5 off $25 coupon has arrived. Staples Free shipping for Staples Rewards  members on all
+getting message 52
+snippet: Plus, Buy One Get One Free on almost everything else FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+getting message 53
+snippet: Friend -- Affordable health care. Fighting climate change. Immigration reform. Those aren&#39;t just
+getting message 54
+snippet: Soft Feel, Lightweight Comfort, Vintage Look Soft Feel, Lightweight Comfort, Vintage Look View Online
+getting message 55
+snippet: Tufts University End User Digest: 1 New Message For windensemble Elist (windensemble@elist.tufts.edu)
+getting message 56
+snippet: Dear Charlie Meyer, Thank you for your recent purchase from Amazon.com! Did you know that you can
+getting message 57
+snippet: 3 days in a row! You&#39;ve coded three days in a row! That&#39;s a great start. KEEP UP YOUR STREAK
+getting message 58
+snippet: 
+getting message 59
+snippet: Charles -- Some folks have started to call this the &quot;fourth quarter&quot; of my presidency. In a
+getting message 60
+snippet: Dear Charles Meyer, You have successfully registered your mobile number on My T-Mobile! With My T-
+getting message 61
+snippet: Need a sub tonight from 9-11. Play what you like; like what you play. Mike Classic Rock Mine -- You
+getting message 62
+snippet: Great movie moments begin tonight. Can&#39;t see the images? View online Roku Now low price on Roku
+getting message 63
+snippet: This email was sent to you by Santander Bank. To ensure delivery to your inbox, please add email@
+getting message 64
+snippet: Save $150 on flight + hotel vacation packages with code: 150VACA ORBITZ Hotels Flights Packages Cars
+getting message 65
+snippet: Friend -- I&#39;ll tell you one big reason I&#39;m pumped for 2015: OFA is going to help train 10000
+getting message 66
+snippet: Charles -- Some folks have started to call this the &quot;fourth quarter&quot; of my presidency. In a
+getting message 67
+snippet: Take a look back at 2014 View this email in your browser 2014 has been a great year for No Barriers
+getting message 68
+snippet: Name a Friend in the new Jimmy Fund Clinic display by 12/31 and be part of the grand re-opening in
+getting message 69
+snippet: Our goal: 15000 donations to help fight cancer | Donate Now  View Web Version | Share Facebook
+getting message 70
+snippet: After Christmas Sale Up to 65% Off FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;&gt; See details ****
+getting message 71
+snippet: $100 Visa gift card with Surface Pro 3. Staples Free shipping for Staples Rewards  members on all
+getting message 72
+snippet: Get 10% off your next order at the Online ProShop [If you cannot view this email, please: click here]
+getting message 73
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 74
+snippet: Amazon Shipping Confirmation Hello Charlie Meyer, &quot;Kingston Digital 240GB...&quot; has shipped.
+getting message 75
+snippet: Richard Kim added comments to resume ruff draft Richard Kim Assisted +1 for verb usage ReplyOpen
+getting message 76
+snippet: Sorry for the mixup! Hi Charles, Our email regarding registration was confusing, so we need to
+getting message 77
+snippet: Save your tax refund and watch it growcommit to save today! View online. Intuit TurboTax Wish your
+getting message 78
+snippet: Help beat cancer in 2015 by supporting research and care today. SUPPORT DANA-FARBER CANCER INSTITUTE
+getting message 79
+snippet: Download At Bat and Subscribe Now View as web page | December 26, 2014 MLB.com MLB.com At Bat. Make
+getting message 80
+snippet: *Available at Boston location only* www.bostonbowl.com Boston Bowl is always looking out for your
+getting message 81
+snippet: This email was sent to you by Santander Bank. To ensure delivery to your inbox, please add email@
+getting message 82
+snippet: PURCHASE TICKETS HERE PRNYE Button Program: What is the button program? This is another way to raise
+getting message 83
+snippet: You can also use this coupon on any mobile or tablet device... Hotels Hotel Deals Packages &amp;
+getting message 84
+snippet: Get 15% off hotels with promo code: GIFTME ORBITZ Hotels Flights Packages Cars Cruises Deals
+getting message 85
+snippet: Take up to 60% our most popular inventions. Quirky New! Best Sellers DIY Quirky+GE Order by midnight
+getting message 86
+snippet: $100 off laptops, desktops and PCs ends soon - treat yourself! Staples Free shipping for Staples
+getting message 87
+snippet: After Christmas Sale: Up to 65% off now through Sunday. FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+getting message 88
+snippet: For Every Outdoor Activity For Every Outdoor Activity View Online Tufts University Logo TEXTBOOKS |
+getting message 89
+snippet: Tufts University End User Digest: 1 New Message For windensemble Elist (windensemble@elist.tufts.edu)
+getting message 90
+snippet: Winter Sale Today! 30% Off 3-Game Packs + Free Ornament View as web page | December 26, 2014
+getting message 91
+snippet: Amazon Order Confirmation Hello Charlie Meyer, Thank you for shopping with us. You ordered &quot;
+getting message 92
+snippet: &quot;amazon.com Prime&quot; Your Amazon.com Today&#39;s Deals Shop All Departments Charlie Meyer,
+getting message 93
+snippet: ASUS Chromebook 12-Inch with Gigabit WiFi, 16GB Storage &amp; 2GB RAM As a reviewer of ASUS
+getting message 94
+snippet: Plus, designer suits just $249.99 and 30% off shoes. FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+getting message 95
+snippet: Thank you Steve! On Thu, Dec 25, 2014 at 7:55 AM, steven lusardi &lt;stevenlusardi33@gmail.com&gt;
+getting message 96
+snippet: Google Play Apps Books Movies Music Newsstand Devices Now available to rent or buy Now available to
+getting message 97
+snippet: I got it !! On Wed, Dec 24, 2014 at 11:17 PM, Edward Beuchert &lt;edward@slidingrock.com&gt; wrote: I
+getting message 98
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 99
+snippet: Plus, designer suits just $249.99 and 30% off shoes. FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+-------------------------- ayyyyyyyy lmao--------------------------------
+id CATEGORY_PERSONAL
+name CATEGORY_PERSONAL
+getting message 0
+snippet: Friend -- If you&#39;re working on your New Year&#39;s resolutions, I have a suggestion: Keep being
+getting message 1
+snippet: Happy New Yearenjoy a $5 credit from our partner, VUDU. Can&#39;t see the images? View online Roku
+getting message 2
+snippet: ChallengePost Build your portfolio. Compete in hackathons &amp; challenges. Be a better hacker!
+getting message 3
+snippet: This email was sent to you by Santander Bank. To ensure delivery to your inbox, please add email@
+getting message 4
+snippet: Free US ground shipping on orders over $50. Quirky New! Markdowns Best Sellers Quirky+GE UNWRAP A
+getting message 5
+snippet: Plus, save an extra 15% on hotels with promo code: GIFTME ORBITZ Hotels Flights Packages Cars Cruises
+getting message 6
+snippet: Get started with DVLUP | View the online version. It&#39;s time to DVLUP something amazing Dear
+getting message 7
+snippet: So you&#39;d like to verify the email address linked to your Medium account? Marvelous! Verify your
+getting message 8
+snippet: We will once again be attempting an upgrade of our GitHub Enterprise instance, this time on 6 January
+getting message 9
+snippet: There&#39;s still plenty to celebrate with HTC Hot Deals There&#39;s still plenty to celebrate with
+getting message 10
+snippet: Make your NYE Dinner Reservation Carmela&#39;s - 781.585.2148 Special Menu Above Mamma Mia&#39;s NYE
+getting message 11
+snippet: Welcome to Medium! Before you go out and play on Medium, please verify your email address. Why, you
+getting message 12
+snippet: Charles -- This shouldn&#39;t take more than a minute: OFA wants to know what issue you&#39;re most
+getting message 13
+snippet: Fluencia Learn Spanish charlie, 2015 is right around the corner! The new year is almost here, and
+getting message 14
+snippet: Sophomore students who are interested in the medical, dental, veterinary and public health and health
+getting message 15
+snippet: Me again, Not sure why but pressing the &#39;shift&#39; button then eject worked, so all is well.
+getting message 16
+snippet: Hi all, Just an FYI but CD 1 isn&#39;t playing nice and refuses to release my CD. I had been using it
+getting message 17
+snippet: December 31 tax deadline TOMORROW | Make your gift today  View Web Version | Share Facebook Twitter
+getting message 18
+snippet: Your support makes such a difference. Please give one more gift in 2014. Dear Caring Partner, As we
+getting message 19
+snippet: Don&#39;t miss your chance to save. Staples Free shipping for Staples Rewards  members on all
+getting message 20
+snippet: Having trouble reading this email? View as webpage  | | Forward to a Friend JERSEYS | CAPS |
+getting message 21
+snippet: Shop Essentials to Keep Up Cozy Shop Essentials to Keep Up Cozy View Online Tufts University Logo
+getting message 22
+snippet: GoFundMe campaigns have raised over $620M. Not Interested? Visit GoFundMe.com December 30, 2014 Young
+getting message 23
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 24
+snippet: No one on the schedule. Going to do an extra-long show. (Will probably also do the 5-6 slot next week
+getting message 25
+snippet: Huge savings on restock instruments, accessories, and more. View The Online Version Woodwinds Brass
+getting message 26
+snippet: Charles -- In a few days, the final Congress of my presidency will take their oaths of office. I&#39;
+getting message 27
+snippet: Hi Charlie, Eric (popcorncolonel@gmail.com) invited you to a Dropbox shared folder called &quot;
+getting message 28
+snippet: Go to my console  Welcome to Google Cloud Platform Cloud Platform is designed to make development
+getting message 29
+snippet: Hi Charlie, Eric (popcorncolonel@gmail.com) invited you to a Dropbox shared folder called &quot;
+getting message 30
+snippet: Charles, I bet you have an opinion on this: As we finalize our plans for the months ahead, we want to
+getting message 31
+snippet: Where did you find this cute puppy? On Dec 27, 2014 10:16 PM, &quot;Charlie Meyer&quot; &lt;cmey63@
+getting message 32
+snippet: Let the Ninety Nine Restaurants treat you on your birthday. To view in your browser or on a mobile
+getting message 33
+snippet: Friend -- In a few days, the final Congress of my presidency will take their oaths of office. I&#39;m
+getting message 34
+snippet: Get 15% off with promo code: GIFTME ORBITZ Hotels Flights Packages Cars Cruises Deals Activities
+getting message 35
+snippet: Association for Computing Machinery | About | Current Issue | TechNews Archive | TechNews Apps
+getting message 36
+snippet: 39DollarGlasses.com 1-800-672-6304 Facebook Twitter Google+ Pinterest Home Page Shop Eyeglasses Shop
+getting message 37
+snippet: Buy One Get One FREE on almost everything else! FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;&gt; See
+getting message 38
+snippet: Charles -- The other side has money to burn -- I&#39;m talking tons of it. But OFA has you. You&#39;
+getting message 39
+snippet: Order Early &amp; Save on Textbooks Order Early &amp; Save on Textbooks View Online Tufts University
+getting message 40
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 41
+snippet: Dear charles.meyer, We have received your application
+getting message 42
+snippet: I don&#39;t know what the protocols are to take these open spots during the winter &quot;Holiday
+getting message 43
+snippet: Dear charles.meyer@tufts.edu, To submit a TA application use the password: 58ikh7 at the webpage:
+getting message 44
+snippet: COMP 40 End-of-Term Grade Report for Charles Meyer Your grade on the COMP 40 final exam was: 95.5
+getting message 45
+snippet: Friend -- I spend a lot of my time asking people for money. I&#39;m proud of that, because I know the
+getting message 46
+snippet: Make Your Year-End Tax-Deductible Gift to SSC by Midnight 12/31! Make your charitable year-end gift
+getting message 47
+snippet: email HTML goes here To view your registration, visit your dashboard by clicking this link. Email
+getting message 48
+snippet: Friend -- You heard from President Obama, and we can&#39;t say it any better than he can. What
+getting message 49
+snippet: We&#39;d never forget your birthday! **************************************** Men&#39;s Wearhouse(R)
+getting message 50
+snippet: Exclusive deals only available to email subscribers Hotels Hotel Deals Packages &amp; Flights Groups
+getting message 51
+snippet: Your $5 off $25 coupon has arrived. Staples Free shipping for Staples Rewards  members on all
+getting message 52
+snippet: Plus, Buy One Get One Free on almost everything else FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+getting message 53
+snippet: Friend -- Affordable health care. Fighting climate change. Immigration reform. Those aren&#39;t just
+getting message 54
+snippet: Soft Feel, Lightweight Comfort, Vintage Look Soft Feel, Lightweight Comfort, Vintage Look View Online
+getting message 55
+snippet: Tufts University End User Digest: 1 New Message For windensemble Elist (windensemble@elist.tufts.edu)
+getting message 56
+snippet: Dear Charlie Meyer, Thank you for your recent purchase from Amazon.com! Did you know that you can
+getting message 57
+snippet: 3 days in a row! You&#39;ve coded three days in a row! That&#39;s a great start. KEEP UP YOUR STREAK
+getting message 58
+snippet: 
+getting message 59
+snippet: Charles -- Some folks have started to call this the &quot;fourth quarter&quot; of my presidency. In a
+getting message 60
+snippet: Dear Charles Meyer, You have successfully registered your mobile number on My T-Mobile! With My T-
+getting message 61
+snippet: Need a sub tonight from 9-11. Play what you like; like what you play. Mike Classic Rock Mine -- You
+getting message 62
+snippet: Great movie moments begin tonight. Can&#39;t see the images? View online Roku Now low price on Roku
+getting message 63
+snippet: This email was sent to you by Santander Bank. To ensure delivery to your inbox, please add email@
+getting message 64
+snippet: Save $150 on flight + hotel vacation packages with code: 150VACA ORBITZ Hotels Flights Packages Cars
+getting message 65
+snippet: Friend -- I&#39;ll tell you one big reason I&#39;m pumped for 2015: OFA is going to help train 10000
+getting message 66
+snippet: Charles -- Some folks have started to call this the &quot;fourth quarter&quot; of my presidency. In a
+getting message 67
+snippet: Take a look back at 2014 View this email in your browser 2014 has been a great year for No Barriers
+getting message 68
+snippet: Name a Friend in the new Jimmy Fund Clinic display by 12/31 and be part of the grand re-opening in
+getting message 69
+snippet: Our goal: 15000 donations to help fight cancer | Donate Now  View Web Version | Share Facebook
+getting message 70
+snippet: After Christmas Sale Up to 65% Off FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;&gt; See details ****
+getting message 71
+snippet: $100 Visa gift card with Surface Pro 3. Staples Free shipping for Staples Rewards  members on all
+getting message 72
+snippet: Get 10% off your next order at the Online ProShop [If you cannot view this email, please: click here]
+getting message 73
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 74
+snippet: Amazon Shipping Confirmation Hello Charlie Meyer, &quot;Kingston Digital 240GB...&quot; has shipped.
+getting message 75
+snippet: Richard Kim added comments to resume ruff draft Richard Kim Assisted +1 for verb usage ReplyOpen
+getting message 76
+snippet: Sorry for the mixup! Hi Charles, Our email regarding registration was confusing, so we need to
+getting message 77
+snippet: Save your tax refund and watch it growcommit to save today! View online. Intuit TurboTax Wish your
+getting message 78
+snippet: Help beat cancer in 2015 by supporting research and care today. SUPPORT DANA-FARBER CANCER INSTITUTE
+getting message 79
+snippet: Download At Bat and Subscribe Now View as web page | December 26, 2014 MLB.com MLB.com At Bat. Make
+getting message 80
+snippet: *Available at Boston location only* www.bostonbowl.com Boston Bowl is always looking out for your
+getting message 81
+snippet: This email was sent to you by Santander Bank. To ensure delivery to your inbox, please add email@
+getting message 82
+snippet: PURCHASE TICKETS HERE PRNYE Button Program: What is the button program? This is another way to raise
+getting message 83
+snippet: You can also use this coupon on any mobile or tablet device... Hotels Hotel Deals Packages &amp;
+getting message 84
+snippet: Get 15% off hotels with promo code: GIFTME ORBITZ Hotels Flights Packages Cars Cruises Deals
+getting message 85
+snippet: Take up to 60% our most popular inventions. Quirky New! Best Sellers DIY Quirky+GE Order by midnight
+getting message 86
+snippet: $100 off laptops, desktops and PCs ends soon - treat yourself! Staples Free shipping for Staples
+getting message 87
+snippet: After Christmas Sale: Up to 65% off now through Sunday. FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+getting message 88
+snippet: For Every Outdoor Activity For Every Outdoor Activity View Online Tufts University Logo TEXTBOOKS |
+getting message 89
+snippet: Tufts University End User Digest: 1 New Message For windensemble Elist (windensemble@elist.tufts.edu)
+getting message 90
+snippet: Winter Sale Today! 30% Off 3-Game Packs + Free Ornament View as web page | December 26, 2014
+getting message 91
+snippet: Amazon Order Confirmation Hello Charlie Meyer, Thank you for shopping with us. You ordered &quot;
+getting message 92
+snippet: &quot;amazon.com Prime&quot; Your Amazon.com Today&#39;s Deals Shop All Departments Charlie Meyer,
+getting message 93
+snippet: ASUS Chromebook 12-Inch with Gigabit WiFi, 16GB Storage &amp; 2GB RAM As a reviewer of ASUS
+getting message 94
+snippet: Plus, designer suits just $249.99 and 30% off shoes. FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+getting message 95
+snippet: Thank you Steve! On Thu, Dec 25, 2014 at 7:55 AM, steven lusardi &lt;stevenlusardi33@gmail.com&gt;
+getting message 96
+snippet: Google Play Apps Books Movies Music Newsstand Devices Now available to rent or buy Now available to
+getting message 97
+snippet: I got it !! On Wed, Dec 24, 2014 at 11:17 PM, Edward Beuchert &lt;edward@slidingrock.com&gt; wrote: I
+getting message 98
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 99
+snippet: Plus, designer suits just $249.99 and 30% off shoes. FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+-------------------------- ayyyyyyyy lmao--------------------------------
+id CATEGORY_FORUMS
+name CATEGORY_FORUMS
+getting message 0
+snippet: Friend -- If you&#39;re working on your New Year&#39;s resolutions, I have a suggestion: Keep being
+getting message 1
+snippet: Happy New Yearenjoy a $5 credit from our partner, VUDU. Can&#39;t see the images? View online Roku
+getting message 2
+snippet: ChallengePost Build your portfolio. Compete in hackathons &amp; challenges. Be a better hacker!
+getting message 3
+snippet: This email was sent to you by Santander Bank. To ensure delivery to your inbox, please add email@
+getting message 4
+snippet: Free US ground shipping on orders over $50. Quirky New! Markdowns Best Sellers Quirky+GE UNWRAP A
+getting message 5
+snippet: Plus, save an extra 15% on hotels with promo code: GIFTME ORBITZ Hotels Flights Packages Cars Cruises
+getting message 6
+snippet: Get started with DVLUP | View the online version. It&#39;s time to DVLUP something amazing Dear
+getting message 7
+snippet: So you&#39;d like to verify the email address linked to your Medium account? Marvelous! Verify your
+getting message 8
+snippet: We will once again be attempting an upgrade of our GitHub Enterprise instance, this time on 6 January
+getting message 9
+snippet: There&#39;s still plenty to celebrate with HTC Hot Deals There&#39;s still plenty to celebrate with
+getting message 10
+snippet: Make your NYE Dinner Reservation Carmela&#39;s - 781.585.2148 Special Menu Above Mamma Mia&#39;s NYE
+getting message 11
+snippet: Welcome to Medium! Before you go out and play on Medium, please verify your email address. Why, you
+getting message 12
+snippet: Charles -- This shouldn&#39;t take more than a minute: OFA wants to know what issue you&#39;re most
+getting message 13
+snippet: Fluencia Learn Spanish charlie, 2015 is right around the corner! The new year is almost here, and
+getting message 14
+snippet: Sophomore students who are interested in the medical, dental, veterinary and public health and health
+getting message 15
+snippet: Me again, Not sure why but pressing the &#39;shift&#39; button then eject worked, so all is well.
+getting message 16
+snippet: Hi all, Just an FYI but CD 1 isn&#39;t playing nice and refuses to release my CD. I had been using it
+getting message 17
+snippet: December 31 tax deadline TOMORROW | Make your gift today  View Web Version | Share Facebook Twitter
+getting message 18
+snippet: Your support makes such a difference. Please give one more gift in 2014. Dear Caring Partner, As we
+getting message 19
+snippet: Don&#39;t miss your chance to save. Staples Free shipping for Staples Rewards  members on all
+getting message 20
+snippet: Having trouble reading this email? View as webpage  | | Forward to a Friend JERSEYS | CAPS |
+getting message 21
+snippet: Shop Essentials to Keep Up Cozy Shop Essentials to Keep Up Cozy View Online Tufts University Logo
+getting message 22
+snippet: GoFundMe campaigns have raised over $620M. Not Interested? Visit GoFundMe.com December 30, 2014 Young
+getting message 23
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 24
+snippet: No one on the schedule. Going to do an extra-long show. (Will probably also do the 5-6 slot next week
+getting message 25
+snippet: Huge savings on restock instruments, accessories, and more. View The Online Version Woodwinds Brass
+getting message 26
+snippet: Charles -- In a few days, the final Congress of my presidency will take their oaths of office. I&#39;
+getting message 27
+snippet: Hi Charlie, Eric (popcorncolonel@gmail.com) invited you to a Dropbox shared folder called &quot;
+getting message 28
+snippet: Go to my console  Welcome to Google Cloud Platform Cloud Platform is designed to make development
+getting message 29
+snippet: Hi Charlie, Eric (popcorncolonel@gmail.com) invited you to a Dropbox shared folder called &quot;
+getting message 30
+snippet: Charles, I bet you have an opinion on this: As we finalize our plans for the months ahead, we want to
+getting message 31
+snippet: Where did you find this cute puppy? On Dec 27, 2014 10:16 PM, &quot;Charlie Meyer&quot; &lt;cmey63@
+getting message 32
+snippet: Let the Ninety Nine Restaurants treat you on your birthday. To view in your browser or on a mobile
+getting message 33
+snippet: Friend -- In a few days, the final Congress of my presidency will take their oaths of office. I&#39;m
+getting message 34
+snippet: Get 15% off with promo code: GIFTME ORBITZ Hotels Flights Packages Cars Cruises Deals Activities
+getting message 35
+snippet: Association for Computing Machinery | About | Current Issue | TechNews Archive | TechNews Apps
+getting message 36
+snippet: 39DollarGlasses.com 1-800-672-6304 Facebook Twitter Google+ Pinterest Home Page Shop Eyeglasses Shop
+getting message 37
+snippet: Buy One Get One FREE on almost everything else! FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;&gt; See
+getting message 38
+snippet: Charles -- The other side has money to burn -- I&#39;m talking tons of it. But OFA has you. You&#39;
+getting message 39
+snippet: Order Early &amp; Save on Textbooks Order Early &amp; Save on Textbooks View Online Tufts University
+getting message 40
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 41
+snippet: Dear charles.meyer, We have received your application
+getting message 42
+snippet: I don&#39;t know what the protocols are to take these open spots during the winter &quot;Holiday
+getting message 43
+snippet: Dear charles.meyer@tufts.edu, To submit a TA application use the password: 58ikh7 at the webpage:
+getting message 44
+snippet: COMP 40 End-of-Term Grade Report for Charles Meyer Your grade on the COMP 40 final exam was: 95.5
+getting message 45
+snippet: Friend -- I spend a lot of my time asking people for money. I&#39;m proud of that, because I know the
+getting message 46
+snippet: Make Your Year-End Tax-Deductible Gift to SSC by Midnight 12/31! Make your charitable year-end gift
+getting message 47
+snippet: email HTML goes here To view your registration, visit your dashboard by clicking this link. Email
+getting message 48
+snippet: Friend -- You heard from President Obama, and we can&#39;t say it any better than he can. What
+getting message 49
+snippet: We&#39;d never forget your birthday! **************************************** Men&#39;s Wearhouse(R)
+getting message 50
+snippet: Exclusive deals only available to email subscribers Hotels Hotel Deals Packages &amp; Flights Groups
+getting message 51
+snippet: Your $5 off $25 coupon has arrived. Staples Free shipping for Staples Rewards  members on all
+getting message 52
+snippet: Plus, Buy One Get One Free on almost everything else FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+getting message 53
+snippet: Friend -- Affordable health care. Fighting climate change. Immigration reform. Those aren&#39;t just
+getting message 54
+snippet: Soft Feel, Lightweight Comfort, Vintage Look Soft Feel, Lightweight Comfort, Vintage Look View Online
+getting message 55
+snippet: Tufts University End User Digest: 1 New Message For windensemble Elist (windensemble@elist.tufts.edu)
+getting message 56
+snippet: Dear Charlie Meyer, Thank you for your recent purchase from Amazon.com! Did you know that you can
+getting message 57
+snippet: 3 days in a row! You&#39;ve coded three days in a row! That&#39;s a great start. KEEP UP YOUR STREAK
+getting message 58
+snippet: 
+getting message 59
+snippet: Charles -- Some folks have started to call this the &quot;fourth quarter&quot; of my presidency. In a
+getting message 60
+snippet: Dear Charles Meyer, You have successfully registered your mobile number on My T-Mobile! With My T-
+getting message 61
+snippet: Need a sub tonight from 9-11. Play what you like; like what you play. Mike Classic Rock Mine -- You
+getting message 62
+snippet: Great movie moments begin tonight. Can&#39;t see the images? View online Roku Now low price on Roku
+getting message 63
+snippet: This email was sent to you by Santander Bank. To ensure delivery to your inbox, please add email@
+getting message 64
+snippet: Save $150 on flight + hotel vacation packages with code: 150VACA ORBITZ Hotels Flights Packages Cars
+getting message 65
+snippet: Friend -- I&#39;ll tell you one big reason I&#39;m pumped for 2015: OFA is going to help train 10000
+getting message 66
+snippet: Charles -- Some folks have started to call this the &quot;fourth quarter&quot; of my presidency. In a
+getting message 67
+snippet: Take a look back at 2014 View this email in your browser 2014 has been a great year for No Barriers
+getting message 68
+snippet: Name a Friend in the new Jimmy Fund Clinic display by 12/31 and be part of the grand re-opening in
+getting message 69
+snippet: Our goal: 15000 donations to help fight cancer | Donate Now  View Web Version | Share Facebook
+getting message 70
+snippet: After Christmas Sale Up to 65% Off FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;&gt; See details ****
+getting message 71
+snippet: $100 Visa gift card with Surface Pro 3. Staples Free shipping for Staples Rewards  members on all
+getting message 72
+snippet: Get 10% off your next order at the Online ProShop [If you cannot view this email, please: click here]
+getting message 73
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 74
+snippet: Amazon Shipping Confirmation Hello Charlie Meyer, &quot;Kingston Digital 240GB...&quot; has shipped.
+getting message 75
+snippet: Richard Kim added comments to resume ruff draft Richard Kim Assisted +1 for verb usage ReplyOpen
+getting message 76
+snippet: Sorry for the mixup! Hi Charles, Our email regarding registration was confusing, so we need to
+getting message 77
+snippet: Save your tax refund and watch it growcommit to save today! View online. Intuit TurboTax Wish your
+getting message 78
+snippet: Help beat cancer in 2015 by supporting research and care today. SUPPORT DANA-FARBER CANCER INSTITUTE
+getting message 79
+snippet: Download At Bat and Subscribe Now View as web page | December 26, 2014 MLB.com MLB.com At Bat. Make
+getting message 80
+snippet: *Available at Boston location only* www.bostonbowl.com Boston Bowl is always looking out for your
+getting message 81
+snippet: This email was sent to you by Santander Bank. To ensure delivery to your inbox, please add email@
+getting message 82
+snippet: PURCHASE TICKETS HERE PRNYE Button Program: What is the button program? This is another way to raise
+getting message 83
+snippet: You can also use this coupon on any mobile or tablet device... Hotels Hotel Deals Packages &amp;
+getting message 84
+snippet: Get 15% off hotels with promo code: GIFTME ORBITZ Hotels Flights Packages Cars Cruises Deals
+getting message 85
+snippet: Take up to 60% our most popular inventions. Quirky New! Best Sellers DIY Quirky+GE Order by midnight
+getting message 86
+snippet: $100 off laptops, desktops and PCs ends soon - treat yourself! Staples Free shipping for Staples
+getting message 87
+snippet: After Christmas Sale: Up to 65% off now through Sunday. FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+getting message 88
+snippet: For Every Outdoor Activity For Every Outdoor Activity View Online Tufts University Logo TEXTBOOKS |
+getting message 89
+snippet: Tufts University End User Digest: 1 New Message For windensemble Elist (windensemble@elist.tufts.edu)
+getting message 90
+snippet: Winter Sale Today! 30% Off 3-Game Packs + Free Ornament View as web page | December 26, 2014
+getting message 91
+snippet: Amazon Order Confirmation Hello Charlie Meyer, Thank you for shopping with us. You ordered &quot;
+getting message 92
+snippet: &quot;amazon.com Prime&quot; Your Amazon.com Today&#39;s Deals Shop All Departments Charlie Meyer,
+getting message 93
+snippet: ASUS Chromebook 12-Inch with Gigabit WiFi, 16GB Storage &amp; 2GB RAM As a reviewer of ASUS
+getting message 94
+snippet: Plus, designer suits just $249.99 and 30% off shoes. FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+getting message 95
+snippet: Thank you Steve! On Thu, Dec 25, 2014 at 7:55 AM, steven lusardi &lt;stevenlusardi33@gmail.com&gt;
+getting message 96
+snippet: Google Play Apps Books Movies Music Newsstand Devices Now available to rent or buy Now available to
+getting message 97
+snippet: I got it !! On Wed, Dec 24, 2014 at 11:17 PM, Edward Beuchert &lt;edward@slidingrock.com&gt; wrote: I
+getting message 98
+snippet: Tufts University End User Digest: 2 New Messages For windensemble Elist (windensemble@elist.tufts.edu
+getting message 99
+snippet: Plus, designer suits just $249.99 and 30% off shoes. FREE SHIPPING ON ALL ORDERS (No Minimum) &gt;
+-------------------------- ayyyyyyyy lmao--------------------------------
+id Label_1
+name Notes
+getting message 0
+snippet: Friend -- If you&#39;re working on your New Year&#39;s resolutions, I have a suggestion: Keep being
+getting message 1
+snippet: Happy New Yearenjoy a $5 credit from our partner, VUDU. Can&#39;t see the images? View online Roku
+getting message 2
+snippet: ChallengePost Build your portfolio. Compete in hackathons &amp; challenges. Be a better hacker!
+getting message 3
+snippet: This email was sent to you by Santander Bank. To ensure delivery to your inbox, please add email@
+getti
