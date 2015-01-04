@@ -9,6 +9,8 @@ from google.appengine.ext import ndb
 import jinja2
 
 import settings
+import logging
+import base64
 
 from apiclient.discovery import build
 from oauth2client.appengine import OAuth2Decorator
@@ -102,9 +104,20 @@ class MainPage(webapp2.RequestHandler):
             for m in messages['messages']:
                 greeting = Greeting(parent=guestbook_key(guestbook_name))
                 self.response.write('<li>getting message%s</li>' % str(i))
+                logging.warn('what the heck')
                 message_id = m['id']
                 i+= 1
                 message = service.users().messages().get(userId='me', id=message_id).execute(http=decorator.http())
+                try:
+                    for part in message['payload']['parts']:
+                        logging.info('here')
+                        data = part['body']['data']
+                        try:
+                            self.response.write('<li>'+(base64.b64decode(data.encode("utf-8"), '-='))+'</li>')
+                        except TypeError: #base64 does this sometimes? i don't know why but it's probably bad and should be addressed but oh well.
+                            pass
+                except KeyError: #i don't know
+                    pass
                 snippet = removeNonAscii(message['snippet'])
                 greeting.content = snippet
                 greeting.put()
