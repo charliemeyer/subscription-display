@@ -2,6 +2,7 @@
 
 import httplib2
 import sys
+import base64
 from apiclient.discovery import build
 from oauth2client.client import flow_from_clientsecrets
 from oauth2client.file import Storage
@@ -18,8 +19,14 @@ def get_messages(label):
             print "getting message " + str(i)
             id = m['id']
             i+= 1
-            message = gmail_service.users().messages().get(userId='me', id=id).execute()
+            message = gmail_service.users().messages().get(userId='me', id=id, format='raw').execute()
             print 'snippet: %s' % removeNonAscii(message['snippet'])
+            msg_str = base64.urlsafe_b64decode(message['raw'].encode('ASCII'))
+            print msg_str
+            print "________________________________________________"
+            # if message['payload']['parts']:
+            #     for part in message['payload']['parts']:
+            #         print 'mimrtype: %s' % part
 
 def get_mail(label_name):
     for l in labels:
@@ -48,5 +55,4 @@ http = credentials.authorize(http)
 gmail_service = build('gmail', 'v1', http=http)
 labels_response = gmail_service.users().labels().list(userId='me').execute()
 labels = labels_response['labels']
-get_mail(sys.argv[1])
 
