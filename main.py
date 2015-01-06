@@ -2,67 +2,49 @@ import os
 import urllib
 import webapp2
 import json
-
 from google.appengine.api import users
 from google.appengine.ext import ndb
-
+from google.appengine.ext.webapp.mail_handlers import InboundMailHandler
 import jinja2
-
 import settings
 import logging
 import base64
+import datetime
 
-from apiclient.discovery import build
-from oauth2client.appengine import OAuth2Decorator
+# from apiclient.discovery import build
+# from oauth2client.appengine import OAuth2Decorator
 
-decorator = OAuth2Decorator(client_id=settings.CLIENT_ID,
-                            client_secret=settings.CLIENT_SECRET,
-                            scope=settings.SCOPE)
+# decorator = OAuth2Decorator(client_id=settings.CLIENT_ID,
+#                             client_secret=settings.CLIENT_SECRET,
+#                             scope=settings.SCOPE)
 
-service = build('gmail', 'v1')
+# service = build('gmail', 'v1')
 
 JINJA_ENVIRONMENT = jinja2.Environment(
     loader=jinja2.FileSystemLoader(os.path.dirname(__file__)),
     extensions=['jinja2.ext.autoescape'],
     autoescape=True)
 
-DEFAULT_GUESTBOOK_NAME = 'default_guestbook'
+DEFAULT_MESSAGEDB_NAME = 'default_messagedb'
 
 FORM_PAGE = """<html>
   <body>
-    <form action="/" method="post">
-      <div><textarea name="content" rows="3" cols="60" placeholder = "enter a valid gmail label name"></textarea></div>
-      <div><input type="submit" value="Get emails"></div>
-    </form>
-
-    <hr>
+    <h1>send an email to charles.meyer@tufts.edu if by some mistake you got sent here</h1>
   </body>
 </html>"""
 
-def guestbook_key(guestbook_name=DEFAULT_GUESTBOOK_NAME):
+def messagedb_key(guestbook_name=DEFAULT_MESSAGEDB_NAME):
     """Constructs a Datastore key for a Guestbook entity with guestbook_name."""
     return ndb.Key('Guestbook', guestbook_name)
 
 def removeNonAscii(s):
     return "".join([x if ord(x) < 128 else '' for x in s])
 
-class Greeting(ndb.Model):
+class Message(ndb.Model):
     """Models an individual Guestbook entry."""
+    subject = ndb.StringProperty(indexed=False)
     content = ndb.StringProperty(indexed=False)
     date = ndb.DateTimeProperty(auto_now_add=True)
-
-class DbTest(webapp2.RequestHandler):
-    def get(self):
-        guestbook_name = self.request.get('guestbook_name',
-                                          DEFAULT_GUESTBOOK_NAME)
-        greetings_query = Greeting.query(
-            ancestor=guestbook_key(guestbook_name)).order(-Greeting.date)
-        greetings = greetings_query.fetch(50)
-        template_values = {
-            'greetings': greetings
-        }
-        template = JINJA_ENVIRONMENT.get_template('results.html')
-        self.response.write(template.render(template_values))
 
 class APITest(webapp2.RequestHandler):
     def get(self):
@@ -70,84 +52,69 @@ class APITest(webapp2.RequestHandler):
         self.response.headers['Access-Control-Allow-Origin'] = '*'
         self.response.headers['Access-Control-Allow-Headers'] = 'Origin, X-Requested-With, Content-Type, Accept'
         self.response.headers['Access-Control-Allow-Methods'] = 'POST, GET, PUT'
-        guestbook_name = self.request.get('guestbook_name',
-                                          DEFAULT_GUESTBOOK_NAME)
-        greetings_query = Greeting.query(
-            ancestor=guestbook_key(guestbook_name)).order(-Greeting.date)
-        greetings = greetings_query.fetch(50)
-        to_write = greetings[0];
+        messagedb_name = DEFAULT_MESSAGEDB_NAME
+        messages_query = Message.query(
+            ancestor=messagedb_key(messagedb_name)).order(Message.date)
+        messages = messages_query.fetch(1)
+        to_write = messages[int(num)];
+
         response = {}
-        response['lmao'] = to_write.content
+        response['messages'] = ["apple", "banana", "pear"]
+        response['num_new'] = 3;
+        response['subject'] = to_write.subject
+
+        if response['subject'] is None:
+            response['subject'] = "Pembroke Schools Update"
         self.response.write(json.dumps(response, separators=(',',':'), sort_keys=True))
 
 class MainPage(webapp2.RequestHandler):
-    @decorator.oauth_required
+    # @decorator.oauth_required
     def get(self):
         self.response.write(FORM_PAGE)
 
-    @decorator.oauth_required
-    def post(self):
-        guestbook_name = self.request.get('guestbook_name',
-                                          DEFAULT_GUESTBOOK_NAME)
-        label_name = self.request.get('content')
-        labels_response = service.users().labels().list(userId='me').execute(http=decorator.http())
-        labels = labels_response['labels']
-        label = [""]
-        for l in labels:
-            if l['name'] == label_name:
-                label = [l['id']]
-        i = 0
-        message_id = ''
-        messages = service.users().messages().list(userId='me', labelIds=label).execute(http=decorator.http())
-        self.response.write('adding the following messages with tag %s to database' % label_name)
-        if messages['messages']:
-            for m in messages['messages']:
-                greeting = Greeting(parent=guestbook_key(guestbook_name))
-                self.response.write('<li>getting message%s</li>' % str(i))
-                logging.warn('what the heck')
-                message_id = m['id']
-                i+= 1
-                message = service.users().messages().get(userId='me', id=message_id).execute(http=decorator.http())
-                try:
-                    for part in message['payload']['parts']:
-                        logging.info('here')
-                        data = part['body']['data']
-                        try:
-                            self.response.write('<li>'+(base64.b64decode(data.encode("utf-8"), '-='))+'</li>')
-                        except TypeError: #base64 does this sometimes? i don't know why but it's probably bad and should be addressed but oh well.
-                            pass
-                except KeyError: #i don't know
-                    pass
-                snippet = removeNonAscii(message['snippet'])
-                greeting.content = snippet
-                greeting.put()
-                self.response.write('<li>snippet: %s</li>' % snippet)
-                self.response.write('<hr>')
+    # @decorator.oauth_required
+    # def post(self):
+    #     guestbook_name = self.request.get('guestbook_name',
+    #                                       DEFAULT_MESSAGEDB_NAME)
+    #     label_name = self.request.get('content')
+    #     labels_response = service.users().labels().list(userId='me').execute(http=decorator.http())
+    #     labels = labels_response['labels']
+    #     label = [""]
+    #     for l in labels:
+    #         if l['name'] == label_name:
+    #             label = [l['id']]
+    #     i = 0
+    #     message_id = ''
+    #     messages = service.users().messages().list(userId='me', labelIds=label).execute(http=decorator.http())
+    #     self.response.write('adding the following messages with tag %s to database' % label_name)
+    #     if messages['messages']:
+    #         for m in messages['messages']:
+    #             message = message(parent=guestbook_key(guestbook_name))
+    #             self.response.write('<li>getting message%s</li>' % str(i))
+    #             message_id = m['id']
+    #             i+= 1
+    #             message = service.users().messages().get(userId='me', id=message_id).execute(http=decorator.http())
+    #             snippet = removeNonAscii(message['snippet'])
+    #             message.content = snippet
+    #             message.put()
+    #             self.response.write('<li>snippet: %s</li>' % snippet)
+    #             self.response.write('<hr>')
 
-
-class Guestbook(webapp2.RequestHandler):
-    def post(self):
-        # We set the same parent key on the 'Greeting' to ensure each Greeting
-        # is in the same entity group. Queries across the single entity group
-        # will be consistent. However, the write rate to a single entity group
-        # should be limited to ~1/second.
-        guestbook_name = self.request.get('guestbook_name',
-                                          DEFAULT_GUESTBOOK_NAME)
-        greeting = Greeting(parent=guestbook_key(guestbook_name))
-
-        if users.get_current_user():
-            greeting.author = users.get_current_user()
-
-        greeting.content = self.request.get('content')
-        greeting.put()
-
-        query_params = {'guestbook_name': guestbook_name}
-        self.redirect('/?' + urllib.urlencode(query_params))
+class LogSenderHandler(InboundMailHandler):
+    def receive(self, mail_message):
+        logging.info("Received a message from: " + mail_message.sender)
+        messagedb_name = DEFAULT_MESSAGEDB_NAME
+        message = Message(parent=messagedb_key(messagedb_name))
+        html_bodies = mail_message.bodies('text/html')
+        # for content_type, body in html_bodies:
+        #     message.content += body.decode()
+        message.content = 'ayy lmao internet content'
+        message.subject = mail_message.subject
+        message.put()
 
 app = webapp2.WSGIApplication([
     ('/', MainPage),
-    (decorator.callback_path, decorator.callback_handler()),
-    ('/sign', Guestbook),
-    ('/dbtest', DbTest),
+    #(decorator.callback_path, decorator.callback_handler()),
+    LogSenderHandler.mapping(),
     ('/api', APITest),
 ], debug=True)
