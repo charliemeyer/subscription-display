@@ -20,6 +20,7 @@ DEFAULT_MESSAGEDB_NAME = 'pembroke_messagedb'
 ACCEPTED_INBOUND_ADDRESS = 'Charie Meyer <cmey63@gmail.com>'
 FILTER_NEWLINES = True
 TIME_KEY = 'LMAO'
+USE_HTML = True
 
 FORM_PAGE = """<html>
   <body>
@@ -29,14 +30,14 @@ FORM_PAGE = """<html>
 
 def messagedb_key(guestbook_name=DEFAULT_MESSAGEDB_NAME):
     """Constructs a Datastore key for a Guestbook entity with guestbook_name."""
-    return ndb.Key('Guestbook', guestbook_name)
+    return ndb.Key('Message', guestbook_name)
 
 def removeNonAscii(s):
     return "".join([x if ord(x) < 128 else '' for x in s])
 
 class TimeStamp(ndb.Model):
     time_stored = ndb.DateTimeProperty()
-    key = ndb.StringProperty(TIME_KEY)
+    name = ndb.StringProperty(default=TIME_KEY)
     def update(self):
         self.time_stored = datetime.datetime.now()
         self.put()
@@ -45,7 +46,7 @@ class Message(ndb.Model):
     """Models an individual Message entry."""
     subject = ndb.StringProperty(indexed=False)
     content = ndb.TextProperty()
-    date = ndb.DateTimeProperty(auto_now_add=True)
+    time = ndb.DateTimeProperty()
 
 class APITest(webapp2.RequestHandler):
     def get(self):
@@ -54,8 +55,15 @@ class APITest(webapp2.RequestHandler):
         self.response.headers['Access-Control-Allow-Headers'] = 'Origin, X-Requested-With, Content-Type, Accept'
         self.response.headers['Access-Control-Allow-Methods'] = 'POST, GET, PUT'
         messagedb_name = DEFAULT_MESSAGEDB_NAME
-        last_time = TimeStamp.query(key == TIME_KEY).fetch(1)
-        messages = Message.query(ancestor=messagedb_key(messagedb_name), Message.date > last_time).fetch(100)
+        last_time = TimeStamp.query(TimeStamp.name == TIME_KEY).fetch(1)
+        if len(last_time) == 0:
+            last_time = TimeStamp()
+            last_time.update()
+            logging.info('making new timestamp')
+        else:
+            last_time = last_time[0]
+            logging.info('last request made at' + str(last_time.time_stored))
+        messages = Message.query(Message.time > last_time.time_stored, ancestor=messagedb_key(messagedb_name)).fetch(100)
         response = {}
         response['messages'] = []
         num_new = len(messages)
@@ -71,6 +79,7 @@ class APITest(webapp2.RequestHandler):
                 response['messages'].append({'subject': messages[i].subject, 'body':content})
         self.response.write(json.dumps(response, separators=(',',':'), sort_keys=True))
         last_time.update()
+        logging.info('this request made at' + str(last_time.time_stored))
 
 class MainPage(webapp2.RequestHandler):
     def get(self):
@@ -96,6 +105,8 @@ class LogSenderHandler(InboundMailHandler):
             message.subject = "Pembroke Schools Update"
         else:
             message.subject = mail_message.subject
+        message.time = datetime.datetime.now()
+        logging.info('this message stored @ ' + str(message.time))
         message.put()
 
 app = webapp2.WSGIApplication([
