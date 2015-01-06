@@ -70,7 +70,7 @@ class APITest(webapp2.RequestHandler):
             else:
                 response['messages'].append({'subject': messages[i].subject, 'body':content})
         self.response.write(json.dumps(response, separators=(',',':'), sort_keys=True))
-        TimeStamp.update()
+        last_time.update()
 
 class MainPage(webapp2.RequestHandler):
     def get(self):
