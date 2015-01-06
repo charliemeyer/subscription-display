@@ -41,7 +41,7 @@ def removeNonAscii(s):
     return "".join([x if ord(x) < 128 else '' for x in s])
 
 class Message(ndb.Model):
-    """Models an individual Guestbook entry."""
+    """Models an individual Message entry."""
     subject = ndb.StringProperty(indexed=False)
     content = ndb.StringProperty(indexed=False)
     date = ndb.DateTimeProperty(auto_now_add=True)
@@ -56,15 +56,17 @@ class APITest(webapp2.RequestHandler):
         messages_query = Message.query(
             ancestor=messagedb_key(messagedb_name)).order(Message.date)
         messages = messages_query.fetch(1)
-        to_write = messages[int(num)];
-
         response = {}
-        response['messages'] = ["apple", "banana", "pear"]
-        response['num_new'] = 3;
-        response['subject'] = to_write.subject
-
-        if response['subject'] is None:
-            response['subject'] = "Pembroke Schools Update"
+        response['messages'] = []
+        tmpmessage = []
+        for i in range(len(messages)):
+            if messages[i].subject is None:
+                response['subject'] = "Pembroke Schools Update"
+            else:
+                tmpmessage['subject'] = messages[i].subject
+            tmpmessage['body'] = 'lmao' #todo: plz fix, charlie
+            response['messages'].push(tmpmessage) 
+            
         self.response.write(json.dumps(response, separators=(',',':'), sort_keys=True))
 
 class MainPage(webapp2.RequestHandler):
