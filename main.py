@@ -11,21 +11,15 @@ import logging
 import base64
 import datetime
 
-# from apiclient.discovery import build
-# from oauth2client.appengine import OAuth2Decorator
-
-# decorator = OAuth2Decorator(client_id=settings.CLIENT_ID,
-#                             client_secret=settings.CLIENT_SECRET,
-#                             scope=settings.SCOPE)
-
-# service = build('gmail', 'v1')
-
 JINJA_ENVIRONMENT = jinja2.Environment(
     loader=jinja2.FileSystemLoader(os.path.dirname(__file__)),
     extensions=['jinja2.ext.autoescape'],
     autoescape=True)
 
-DEFAULT_MESSAGEDB_NAME = 'default_messagedb'
+DEFAULT_MESSAGEDB_NAME = 'pembroke_messagedb'
+ACCEPTED_INBOUND_ADDRESS = 'Charie Meyer <cmey63@gmail.com>'
+FILTER_NEWLINES = True
+TIME_KEY = 'LMAO'
 
 FORM_PAGE = """<html>
   <body>
@@ -40,10 +34,17 @@ def messagedb_key(guestbook_name=DEFAULT_MESSAGEDB_NAME):
 def removeNonAscii(s):
     return "".join([x if ord(x) < 128 else '' for x in s])
 
+class TimeStamp(ndb.Model):
+    time_stored = ndb.DateTimeProperty()
+    key = ndb.StringProperty(TIME_KEY)
+    def update(self):
+        self.time_stored = datetime.datetime.now()
+        self.put()
+
 class Message(ndb.Model):
     """Models an individual Message entry."""
     subject = ndb.StringProperty(indexed=False)
-    content = ndb.StringProperty(indexed=False)
+    content = ndb.TextProperty()
     date = ndb.DateTimeProperty(auto_now_add=True)
 
 class APITest(webapp2.RequestHandler):
@@ -53,70 +54,52 @@ class APITest(webapp2.RequestHandler):
         self.response.headers['Access-Control-Allow-Headers'] = 'Origin, X-Requested-With, Content-Type, Accept'
         self.response.headers['Access-Control-Allow-Methods'] = 'POST, GET, PUT'
         messagedb_name = DEFAULT_MESSAGEDB_NAME
-        messages_query = Message.query(
-            ancestor=messagedb_key(messagedb_name)).order(Message.date)
-        messages = messages_query.fetch(1)
+        last_time = TimeStamp.query(key == TIME_KEY).fetch(1)
+        messages = Message.query(ancestor=messagedb_key(messagedb_name), Message.date > last_time).fetch(100)
         response = {}
         response['messages'] = []
-        tmpmessage = []
-        for i in range(len(messages)):
+        num_new = len(messages)
+        response['num_new'] = num_new     
+        for i in range(num_new):
+            content = messages[i].content
+            if FILTER_NEWLINES:
+                content = content.replace('\n', " ")
+            content = content.replace('\r', "")
             if messages[i].subject is None:
-                response['subject'] = "Pembroke Schools Update"
+                response['messages'].append({'subject': "Pembroke Schools Update", 'body':content})
             else:
-                tmpmessage['subject'] = messages[i].subject
-            tmpmessage['body'] = 'lmao' #todo: plz fix, charlie
-            response['messages'].push(tmpmessage) 
-            
+                response['messages'].append({'subject': messages[i].subject, 'body':content})
         self.response.write(json.dumps(response, separators=(',',':'), sort_keys=True))
+        TimeStamp.update()
 
 class MainPage(webapp2.RequestHandler):
-    # @decorator.oauth_required
     def get(self):
         self.response.write(FORM_PAGE)
-
-    # @decorator.oauth_required
-    # def post(self):
-    #     guestbook_name = self.request.get('guestbook_name',
-    #                                       DEFAULT_MESSAGEDB_NAME)
-    #     label_name = self.request.get('content')
-    #     labels_response = service.users().labels().list(userId='me').execute(http=decorator.http())
-    #     labels = labels_response['labels']
-    #     label = [""]
-    #     for l in labels:
-    #         if l['name'] == label_name:
-    #             label = [l['id']]
-    #     i = 0
-    #     message_id = ''
-    #     messages = service.users().messages().list(userId='me', labelIds=label).execute(http=decorator.http())
-    #     self.response.write('adding the following messages with tag %s to database' % label_name)
-    #     if messages['messages']:
-    #         for m in messages['messages']:
-    #             message = message(parent=guestbook_key(guestbook_name))
-    #             self.response.write('<li>getting message%s</li>' % str(i))
-    #             message_id = m['id']
-    #             i+= 1
-    #             message = service.users().messages().get(userId='me', id=message_id).execute(http=decorator.http())
-    #             snippet = removeNonAscii(message['snippet'])
-    #             message.content = snippet
-    #             message.put()
-    #             self.response.write('<li>snippet: %s</li>' % snippet)
-    #             self.response.write('<hr>')
 
 class LogSenderHandler(InboundMailHandler):
     def receive(self, mail_message):
         logging.info("Received a message from: " + mail_message.sender)
+        if mail_message.sender != ACCEPTED_INBOUND_ADDRESS:
+            logging.info("Message from unknown sender, ignoring")
         messagedb_name = DEFAULT_MESSAGEDB_NAME
         message = Message(parent=messagedb_key(messagedb_name))
+        plain_bodies = mail_message.bodies('text/plain')
         html_bodies = mail_message.bodies('text/html')
-        # for content_type, body in html_bodies:
-        #     message.content += body.decode()
-        message.content = 'ayy lmao internet content'
-        message.subject = mail_message.subject
+        message.content = ""
+        if USE_HTML:
+            for content_type, body in html_bodies:
+                message.content += body.decode()
+        else:
+            for content_type, body in plain_bodies:
+                message.content += body.decode()
+        if mail_message.subject is None:
+            message.subject = "Pembroke Schools Update"
+        else:
+            message.subject = mail_message.subject
         message.put()
 
 app = webapp2.WSGIApplication([
     ('/', MainPage),
-    #(decorator.callback_path, decorator.callback_handler()),
     LogSenderHandler.mapping(),
     ('/api', APITest),
 ], debug=True)

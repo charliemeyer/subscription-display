@@ -56,3 +56,32 @@ gmail_service = build('gmail', 'v1', http=http)
 labels_response = gmail_service.users().labels().list(userId='me').execute()
 labels = labels_response['labels']
 
+
+
+    # @decorator.oauth_required
+    # def post(self):
+    #     guestbook_name = self.request.get('guestbook_name',
+    #                                       DEFAULT_MESSAGEDB_NAME)
+    #     label_name = self.request.get('content')
+    #     labels_response = service.users().labels().list(userId='me').execute(http=decorator.http())
+    #     labels = labels_response['labels']
+    #     label = [""]
+    #     for l in labels:
+    #         if l['name'] == label_name:
+    #             label = [l['id']]
+    #     i = 0
+    #     message_id = ''
+    #     messages = service.users().messages().list(userId='me', labelIds=label).execute(http=decorator.http())
+    #     self.response.write('adding the following messages with tag %s to database' % label_name)
+    #     if messages['messages']:
+    #         for m in messages['messages']:
+    #             message = message(parent=guestbook_key(guestbook_name))
+    #             self.response.write('<li>getting message%s</li>' % str(i))
+    #             message_id = m['id']
+    #             i+= 1
+    #             message = service.users().messages().get(userId='me', id=message_id).execute(http=decorator.http())
+    #             snippet = removeNonAscii(message['snippet'])
+    #             message.content = snippet
+    #             message.put()
+    #             self.response.write('<li>snippet: %s</li>' % snippet)
+    #             self.response.write('<hr>')
