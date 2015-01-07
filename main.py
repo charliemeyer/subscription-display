@@ -33,6 +33,7 @@ class Message(ndb.Model):
     content = ndb.TextProperty()
     time = ndb.DateTimeProperty()
 
+# returns the new messages that have arrived in JSON since the last request
 class API(webapp2.RequestHandler):
     def get(self):
         # enable requests from any domain
@@ -41,7 +42,7 @@ class API(webapp2.RequestHandler):
         self.response.headers['Access-Control-Allow-Methods'] = 'POST, GET, PUT'
         messagedb_name = DEFAULT_MESSAGEDB_NAME
         last_time = TimeStamp.query(TimeStamp.name == TIME_KEY).fetch(1)
-        if len(last_time) == 0: # if there was no "last request"
+        if len(last_time) == 0: # if there was no "last request", make a new timestamp
             last_time = TimeStamp()
             last_time.update()
             logging.info('making new timestamp')
@@ -58,7 +59,7 @@ class API(webapp2.RequestHandler):
             if FILTER_NEWLINES:
                 content = content.replace('\n', " ")
             content = content.replace('\r', "")
-            if messages[i].subject is None:
+            if messages[i].subject is None: #if there was no subject, give this default
                 response['messages'].append({'subject': "Pembroke Schools Update", 'body':content})
             else:
                 response['messages'].append({'subject': messages[i].subject, 'body':content})
@@ -66,6 +67,7 @@ class API(webapp2.RequestHandler):
         last_time.update()
         logging.info('this request made at' + str(last_time.time_stored))
 
+# takes incoming mail, parses it and stores it in the database
 class LogSenderHandler(InboundMailHandler):
     def receive(self, mail_message):
         logging.info("Received a message from: " + mail_message.sender)
