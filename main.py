@@ -4,7 +4,6 @@ import webapp2
 import json
 from google.appengine.ext import ndb
 from google.appengine.ext.webapp.mail_handlers import InboundMailHandler
-import settings
 import logging
 import base64
 import datetime
