@@ -2,39 +2,24 @@ import os
 import urllib
 import webapp2
 import json
-from google.appengine.api import users
 from google.appengine.ext import ndb
 from google.appengine.ext.webapp.mail_handlers import InboundMailHandler
-import jinja2
 import settings
 import logging
 import base64
 import datetime
 
-JINJA_ENVIRONMENT = jinja2.Environment(
-    loader=jinja2.FileSystemLoader(os.path.dirname(__file__)),
-    extensions=['jinja2.ext.autoescape'],
-    autoescape=True)
-
 DEFAULT_MESSAGEDB_NAME = 'pembroke_messagedb'
 ACCEPTED_INBOUND_ADDRESS = 'Charie Meyer <cmey63@gmail.com>'
 FILTER_NEWLINES = True
-TIME_KEY = 'LMAO'
+TIME_KEY = 'DEFAULT_TIME_KEY'
 USE_HTML = True
 
-FORM_PAGE = """<html>
-  <body>
-    <h1>send an email to charles.meyer@tufts.edu if by some mistake you got sent here</h1>
-  </body>
-</html>"""
+# returns a datastore key for a given message
+def messagedb_key(messagedb_name=DEFAULT_MESSAGEDB_NAME):
+    return ndb.Key('Message', messagedb_name)
 
-def messagedb_key(guestbook_name=DEFAULT_MESSAGEDB_NAME):
-    """Constructs a Datastore key for a Guestbook entity with guestbook_name."""
-    return ndb.Key('Message', guestbook_name)
-
-def removeNonAscii(s):
-    return "".join([x if ord(x) < 128 else '' for x in s])
-
+# stores when requests were last received (for determining which ones are new)
 class TimeStamp(ndb.Model):
     time_stored = ndb.DateTimeProperty()
     name = ndb.StringProperty(default=TIME_KEY)
@@ -42,21 +27,21 @@ class TimeStamp(ndb.Model):
         self.time_stored = datetime.datetime.now()
         self.put()
 
+# data for each message. time is the time when the message was receieved/stored
 class Message(ndb.Model):
-    """Models an individual Message entry."""
     subject = ndb.StringProperty(indexed=False)
     content = ndb.TextProperty()
     time = ndb.DateTimeProperty()
 
-class APITest(webapp2.RequestHandler):
+class API(webapp2.RequestHandler):
     def get(self):
-        # lmao so secure
+        # enable requests from any domain
         self.response.headers['Access-Control-Allow-Origin'] = '*'
         self.response.headers['Access-Control-Allow-Headers'] = 'Origin, X-Requested-With, Content-Type, Accept'
         self.response.headers['Access-Control-Allow-Methods'] = 'POST, GET, PUT'
         messagedb_name = DEFAULT_MESSAGEDB_NAME
         last_time = TimeStamp.query(TimeStamp.name == TIME_KEY).fetch(1)
-        if len(last_time) == 0:
+        if len(last_time) == 0: # if there was no "last request"
             last_time = TimeStamp()
             last_time.update()
             logging.info('making new timestamp')
@@ -80,10 +65,6 @@ class APITest(webapp2.RequestHandler):
         self.response.write(json.dumps(response, separators=(',',':'), sort_keys=True))
         last_time.update()
         logging.info('this request made at' + str(last_time.time_stored))
-
-class MainPage(webapp2.RequestHandler):
-    def get(self):
-        self.response.write(FORM_PAGE)
 
 class LogSenderHandler(InboundMailHandler):
     def receive(self, mail_message):
@@ -110,7 +91,6 @@ class LogSenderHandler(InboundMailHandler):
         message.put()
 
 app = webapp2.WSGIApplication([
-    ('/', MainPage),
     LogSenderHandler.mapping(),
-    ('/api', APITest),
+    ('/api', API),
 ], debug=True)
