@@ -9,22 +9,34 @@
  * License: GPL2
  */
 
-register_activation_hook( __FILE__, 'prefix_activation');
-/**
- * On activation, set a time, frequency and name of an action hook to be scheduled.
- */
-function prefix_activation() {
-	wp_schedule_event(time(), 'hourly', 'prefix_hourly_event_hook');
+//------------------------------------------------------------//
+//--------------------- TOWN NAME ----------------------------//
+//---- Enter the town name here, with it exactly matching ----//
+//---- the string before the '@' in the biw-school-news   ----//
+//---- email. ex. pembroke@biw-school-news.appspotmail.com ---//
+//---- the $town_name variable should be "pembroke". case ----//
+//---- counts. If it all breaks, shoot me an email @      ----//
+//---- charles.meyer@tufts.edu                            ----// 
+//------------------------------------------------------------//
+
+$town_name = "pembroke";
+
+// On activation, set up wordpress to run the add_posts_hourly function hourly
+// starting at time of activiation. You can toggle activation/deactivation for testing
+// the 'add_posts_hourly' function
+register_activation_hook(__FILE__, 'register_on_activation');
+
+function register_on_activation() {
+	wp_schedule_event(time(), 'hourly', 'add_posts_hook');
 }
 
-add_action( 'prefix_hourly_event_hook', 'prefix_do_this_hourly' );
-/**
- * On the scheduled action hook, run the function.
- */
-function prefix_do_this_hourly() {
-	$slug = 'example-post';
-	$title = 'Auto-Generated Post' . strval(time());
-	$response = wp_remote_retrieve_body(wp_remote_get('http://prefab-kit-801.appspot.com/api?num=20'));
+add_action('add_posts_hook', 'add_posts_hourly');
+
+// Get the new posts from the server and add them to the blog
+// Reference for the parameters in the array @ "http://codex.wordpress.org/Function_Reference/wp_insert_post"
+function add_posts_hourly() {
+	$slug = 'school-update';
+	$response = wp_remote_retrieve_body(wp_remote_get('http://biw-school-news.appspot.com/api?town_name=' + $town_name));
 	$data = json_decode($response, true);
 	$num_new = intval($data["num_new"]);
 	for($i = 0; $i < $num_new; $i++){
@@ -35,7 +47,6 @@ function prefix_do_this_hourly() {
 				'post_content'      =>  $body,
 				'comment_status'	=>	'closed',
 				'ping_status'		=>	'closed',
-				'post_author'		=>	'Charlie',
 				'post_name'		    =>	$slug,
 				'post_title'		=>	$title,
 				'post_status'		=>	'publish',
@@ -45,10 +56,9 @@ function prefix_do_this_hourly() {
 	} 
 }	
 
-register_deactivation_hook( __FILE__, 'prefix_deactivation' );
-/**
- * On deactivation, remove all functions from the scheduled action hook.
- */
-function prefix_deactivation() {
-	wp_clear_scheduled_hook( 'prefix_hourly_event_hook' );
+// On deactivation, stop wordpress from adding posts hourly
+register_deactivation_hook(__FILE__, 'remove_on_deactivation');
+
+function remove_on_deactivation() {
+	wp_clear_scheduled_hook('add_posts_hook');
 }

@@ -1,4 +1,4 @@
-application: prefab-kit-801
+application: biw-school-news
 version: 1
 runtime: python27
 api_version: 1
@@ -13,8 +13,6 @@ handlers:
 
 libraries:
 - name: webapp2
-  version: latest
-- name: jinja2
   version: latest
 
 inbound_services:
