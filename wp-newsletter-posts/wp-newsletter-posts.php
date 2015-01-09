@@ -10,8 +10,8 @@
  */
 
 //------------------------------------------------------------//
-//--------------------- TOWN NAME ----------------------------//
-//---- Enter the town name here, with it exactly matching ----//
+//--------------------- INSTRUCTIONS -------------------------//
+//---- Enter the town name on line 36, exactly matching   ----//
 //---- the string before the '@' in the biw-school-news   ----//
 //---- email. ex. pembroke@biw-school-news.appspotmail.com ---//
 //---- the $town_name variable should be "pembroke". case ----//
@@ -19,10 +19,8 @@
 //---- charles.meyer@tufts.edu                            ----// 
 //------------------------------------------------------------//
 
-$town_name = "pembroke";
-
 // On activation, set up wordpress to run the add_posts_hourly function hourly
-// starting at time of activiation. You can toggle activation/deactivation for testing
+// starting at time of activation. You can toggle activation/deactivation for testing
 // the 'add_posts_hourly' function
 register_activation_hook(__FILE__, 'register_on_activation');
 
@@ -35,8 +33,9 @@ add_action('add_posts_hook', 'add_posts_hourly');
 // Get the new posts from the server and add them to the blog
 // Reference for the parameters in the array @ "http://codex.wordpress.org/Function_Reference/wp_insert_post"
 function add_posts_hourly() {
+	$TOWN_NAME = "TEST";
 	$slug = 'school-update';
-	$response = wp_remote_retrieve_body(wp_remote_get('http://biw-school-news.appspot.com/api?town_name=' + $town_name));
+	$response = wp_remote_retrieve_body(wp_remote_get('http://biw-school-news.appspot.com/api?town_name=' . $TOWN_NAME));
 	$data = json_decode($response, true);
 	$num_new = intval($data["num_new"]);
 	for($i = 0; $i < $num_new; $i++){

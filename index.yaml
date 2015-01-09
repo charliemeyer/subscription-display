@@ -11,6 +11,11 @@ indexes:
 # your application using appcfg.py.
 
 - kind: Message
+  properties:
+  - name: town
+  - name: time
+
+- kind: Message
   ancestor: yes
   properties:
   - name: time

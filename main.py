@@ -8,9 +8,8 @@ import logging
 import base64
 import datetime
 
-ACCEPTED_INBOUND_ADDRESS = 'Charie Meyer <biwschoolnews@gmail.com>'
-FILTER_NEWLINES = True
-USE_HTML = True
+FILTER_NEWLINES = False
+USE_HTML = False
 # returns a datastore key for a given message
 def messagedb_key(messagedb_name):
     return ndb.Key('Message', messagedb_name)
@@ -29,7 +28,6 @@ class Message(ndb.Model):
     content = ndb.TextProperty()
     town = ndb.StringProperty(indexed=True)
     time = ndb.DateTimeProperty()
-
 
 # returns the new messages that have arrived in JSON since the last request
 class API(webapp2.RequestHandler):
@@ -51,7 +49,7 @@ class API(webapp2.RequestHandler):
             logging.info('last request made at' + str(last_time.time_stored))
         logging.info('looking for messages for town: ' + town_name)
         # building response
-        messages = Message.query(Message.town == town_name and Message.time > last_time.time_stored).fetch(100)
+        messages = Message.query(Message.town == town_name, Message.time > last_time.time_stored).fetch(100)
         response = {}
         response['messages'] = []
         num_new = len(messages)
@@ -73,8 +71,7 @@ class API(webapp2.RequestHandler):
 # takes incoming mail, parses it and stores it in the database
 class LogSenderHandler(InboundMailHandler):
     def receive(self, mail_message):
-        logging.info("Received a message from: " + mail_message.sender)
-        logging.info("Received a message addressed to " + mail_message.to)
+        logging.info("Received a message from: " + mail_message.sender + " addressed to " + mail_message.to)
         # gets the "pembroke" in pembroke@biw-school-news.appspot.com
         town_name = mail_message.to.split('@')[0][1:]
         message = Message()
